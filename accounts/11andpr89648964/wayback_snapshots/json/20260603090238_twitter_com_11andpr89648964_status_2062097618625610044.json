@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062031204304724062",
+    "created_at": "2026-06-03T09:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062097618625610044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051188013619875840",
+          "start": 0,
+          "username": "yukimaru_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062097618625610044",
+    "in_reply_to_user_id": "2051188013619875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062031204304724062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukimaru_suki 😂也不看看自己啥德行。壓力孩子幹啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062031204304724062",
+        "created_at": "2026-06-03T09:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062097618625610044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051188013619875840",
+              "start": 0,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062097618625610044",
+        "in_reply_to_user_id": "2051188013619875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062031204304724062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimaru_suki 😂也不看看自己啥德行。壓力孩子幹啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051188013619875840",
+        "conversation_id": "2062031204304724062",
+        "created_at": "2026-06-03T04:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062031204304724062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062031204304724062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说看到别的孩子都在变好的生活为什么自己的孩子会变成这样，是啊，为什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 755,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1389
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T06:34:28.000Z",
+        "description": "中国语/日本語 /20⬆️/od/缓慢治疗精神疾病中/cp暴言中/fo会查成分",
+        "id": "2051188013619875840",
+        "name": "苦情剧又该我上演",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059458181710192640/SCSuqh8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 84,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "username": "yukimaru_suki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2061899930244141543",
+    "created_at": "2026-06-02T19:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061899930244141543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057330468874526720",
+          "start": 3,
+          "username": "b1efengwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061899930244141543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061894693353566429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b1efengwo: 互关寻回，大号被封了...麻烦大家转推 谢谢🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2061899930244141543",
+        "created_at": "2026-06-02T19:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061899930244141543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057330468874526720",
+              "start": 3,
+              "username": "b1efengwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061899930244141543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061894693353566429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b1efengwo: 互关寻回，大号被封了...麻烦大家转推 谢谢🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057330468874526720",
+        "conversation_id": "2061894693353566429",
+        "created_at": "2026-06-02T19:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061894693353566429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061894693353566429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "互关寻回，大号被封了...麻烦大家转推 谢谢🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 748,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1357
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T05:21:46.000Z",
+        "description": "我也忘了是几代目了💦",
+        "id": "2057330468874526720",
+        "name": "Mercy 不要封我求你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057331116739358720/HYfrK5eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 137,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "username": "b1efengwo",
+        "verified": false
+      }
+    ]
+  }
+}

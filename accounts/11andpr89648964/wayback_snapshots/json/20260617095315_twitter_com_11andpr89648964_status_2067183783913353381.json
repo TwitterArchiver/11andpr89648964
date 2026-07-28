@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067183760920223745"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067183783913353381",
+    "created_at": "2026-06-17T09:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067183783913353381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c6z0NwRz9I",
+          "end": 29,
+          "expanded_url": "https://x.com/11andpr89648964/status/2067183783913353381/photo/1",
+          "media_key": "3_2067183760920223745",
+          "start": 6,
+          "url": "https://t.co/c6z0NwRz9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067183783913353381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "六只鸟之食 https://t.co/c6z0NwRz9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067183760920223745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAcrZsbIAEXfLF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067183760920223745"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067183783913353381",
+        "created_at": "2026-06-17T09:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067183783913353381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6z0NwRz9I",
+              "end": 29,
+              "expanded_url": "https://x.com/11andpr89648964/status/2067183783913353381/photo/1",
+              "media_key": "3_2067183760920223745",
+              "start": 6,
+              "url": "https://t.co/c6z0NwRz9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067183783913353381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六只鸟之食 https://t.co/c6z0NwRz9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 899,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1781
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

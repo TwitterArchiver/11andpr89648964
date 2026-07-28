@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060630402398928896"
+      ],
+      "media_source_tweet_id": [
+        "2060630475069432047"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060787696549994864",
+    "created_at": "2026-05-30T18:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060787696549994864"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1269589587246153730",
+          "start": 3,
+          "username": "PREMRAT54351503"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6HwSgYOKk",
+          "end": 62,
+          "expanded_url": "https://x.com/PREMRAT54351503/status/2060630475069432047/video/1",
+          "media_key": "13_2060630402398928896",
+          "start": 39,
+          "url": "https://t.co/z6HwSgYOKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060787696549994864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060630475069432047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PREMRAT54351503: 发了也没有人看🥺 #门槛妹 #非绿 https://t.co/z6HwSgYOKk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060787696549994864].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060787696549994864",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060787696549994864"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15733,
+        "height": 1280,
+        "media_key": "13_2060630402398928896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060630402398928896/img/isatEabnuOUOox9D.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060630402398928896/vid/avc1/320x568/gmpiYSuBOwznN3Eq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060630402398928896/vid/avc1/480x852/S-W5w4LO5qLLCe5G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060630402398928896/vid/avc1/720x1280/fskJTWEHE9WxENDW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060630402398928896/pl/AsrMHo3tJSAXJy2B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060630402398928896"
+          ]
+        },
+        "author_id": "1269589587246153730",
+        "conversation_id": "2060630475069432047",
+        "created_at": "2026-05-30T07:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060630475069432047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6HwSgYOKk",
+              "end": 41,
+              "expanded_url": "https://x.com/PREMRAT54351503/status/2060630475069432047/video/1",
+              "media_key": "13_2060630402398928896",
+              "start": 18,
+              "url": "https://t.co/z6HwSgYOKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060630475069432047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发了也没有人看🥺 #门槛妹 #非绿 https://t.co/z6HwSgYOKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 723,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1302
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T11:19:17.000Z",
+        "description": "坐标广州 深圳 验证20 🚪188",
+        "id": "1269589587246153730",
+        "name": "婷婷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059004588863508480/scsy1Bfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 3,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "PREMRAT54351503",
+        "verified": false
+      }
+    ]
+  }
+}

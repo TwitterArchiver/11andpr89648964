@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062979424900014207",
+    "created_at": "2026-06-06T06:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063150843495629312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952345008478232576",
+          "start": 0,
+          "username": "Yu_071127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063150843495629312",
+    "in_reply_to_user_id": "1952345008478232576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062979424900014207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_071127 说喜欢地雷女的就是想法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062979424900014207",
+        "created_at": "2026-06-06T06:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063150843495629312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952345008478232576",
+              "start": 0,
+              "username": "Yu_071127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063150843495629312",
+        "in_reply_to_user_id": "1952345008478232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062979424900014207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_071127 说喜欢地雷女的就是想法了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952345008478232576",
+        "conversation_id": "2062979424900014207",
+        "created_at": "2026-06-05T19:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062979424900014207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062979424900014207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生物爹和生物妈离婚 生物爹跑去养小三的女儿(和他都没血缘关系) 没考大学所以马上变脸说我没用只会拿钱(其实只有一周100)  跟着生物妈 自残被说不想活别拖累她 自己再因为性格有点地雷不被人喜欢。。到底谁在说喜欢地雷啊怎么只有我相信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 810,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1462
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T12:25:06.000Z",
+        "description": "季屿/shima 随意称呼就好\n07‖地雷‖overdose‖自残‖病み垢‖メンヘラ‖不安です",
+        "id": "1952345008478232576",
+        "location": "在你的身后哦",
+        "name": "我想成為你的眼淚",
+        "pinned_tweet_id": "2063001349147771317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060868521232662528/AlWnDSf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 158,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 394
+        },
+        "username": "Yu_071127",
+        "verified": false
+      }
+    ]
+  }
+}

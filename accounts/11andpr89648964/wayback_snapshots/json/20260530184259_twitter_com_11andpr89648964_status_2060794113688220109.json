@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060340762659995696",
+    "created_at": "2026-05-30T18:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060794113688220109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685159016081862656",
+          "start": 0,
+          "username": "unnun1612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060794113688220109",
+    "in_reply_to_user_id": "1685159016081862656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340762659995696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unnun1612 抱抱你 希望你不要走😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060340762659995696",
+        "created_at": "2026-05-30T18:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060794113688220109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685159016081862656",
+              "start": 0,
+              "username": "unnun1612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060794113688220109",
+        "in_reply_to_user_id": "1685159016081862656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340762659995696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unnun1612 抱抱你 希望你不要走😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685159016081862656",
+        "conversation_id": "2060340762659995696",
+        "created_at": "2026-05-29T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340762659995696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340762659995696",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14014,
+          "like_count": 119,
+          "quote_count": 4,
+          "reply_count": 115,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "죄송합니다. 계정을 삭제할지도 몰라요.\n그리고 죽을지도 몰라요.\n너무 우울해서 죽고 싶어서 견딜 수가 없어요.\n만약 지우지 않으면 내일부터도 잘 지내줬으면 좋겠어요."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 723,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1307
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T05:23:26.000Z",
+        "description": "07 카라멜의 방목 ￤ \n️🩵 @hana0_61 @Uxxxxin 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "hana0_61"
+              },
+              {
+                "end": 35,
+                "start": 27,
+                "username": "Uxxxxin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/unnun1612/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/unnun1612/",
+                "start": 0,
+                "url": "https://t.co/FVR3tCBIzm"
+              }
+            ]
+          }
+        },
+        "id": "1685159016081862656",
+        "location": "ㅎㅎㅎㅎㅎ",
+        "name": "ㅌㅊㅅ",
+        "pinned_tweet_id": "2060340762659995696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060691841876738048/_75A9MpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 181,
+          "like_count": 7846,
+          "listed_count": 6,
+          "media_count": 16,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/FVR3tCBIzm",
+        "username": "unnun1612",
+        "verified": false
+      }
+    ]
+  }
+}

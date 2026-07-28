@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064207590423503256",
+    "created_at": "2026-06-09T12:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064316635977318544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041547685153710080",
+          "start": 0,
+          "username": "Suansuanpig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064316635977318544",
+    "in_reply_to_user_id": "2041547685153710080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064207590423503256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suansuanpig 恭迎陛下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064207590423503256",
+        "created_at": "2026-06-09T12:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064316635977318544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041547685153710080",
+              "start": 0,
+              "username": "Suansuanpig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064316635977318544",
+        "in_reply_to_user_id": "2041547685153710080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064207590423503256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suansuanpig 恭迎陛下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041547685153710080",
+        "conversation_id": "2064207590423503256",
+        "created_at": "2026-06-09T04:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064207590423503256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064207590423503256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完啦🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 830,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1517
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T16:05:16.000Z",
+        "description": "朋友圈没发的都在这了\n简中/繁中 \n07 infj 性取向为女 欢迎互关",
+        "id": "2041547685153710080",
+        "location": "fujian",
+        "name": "Suan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041550325904297984/_XxQ4spn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 71,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 870
+        },
+        "username": "Suansuanpig",
+        "verified": false
+      }
+    ]
+  }
+}

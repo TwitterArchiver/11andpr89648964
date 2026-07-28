@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2074772971131113753",
+    "created_at": "2026-07-08T10:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074799405153362114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "361248768",
+          "start": 0,
+          "username": "R1kOx033w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074799405153362114",
+    "in_reply_to_user_id": "361248768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074789425016721767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1kOx033w 而且我还尿了两次尿床了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2074772971131113753",
+        "created_at": "2026-07-08T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074799405153362114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "361248768",
+              "start": 0,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074799405153362114",
+        "in_reply_to_user_id": "361248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074789425016721767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1kOx033w 而且我还尿了两次尿床了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "361248768",
+        "conversation_id": "2074772971131113753",
+        "created_at": "2026-07-08T09:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074789425016721767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074789425016721767",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074772971131113753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 我也快了…有时候裤子刚脱就漏…而且有点大小便都这样…镇定剂让肌肉太放松了 我甚至每天都提肛都夹不住😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 962,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#颓废迷茫青年#混乱善良#收留一样善良的孩子",
+        "id": "361248768",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2036929448646500730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "R1kOx033w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2061546702746902913",
+    "created_at": "2026-06-02T23:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061947041035776278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748324404336234496",
+          "start": 0,
+          "username": "jjini020319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061947041035776278",
+    "in_reply_to_user_id": "1748324404336234496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061546702746902913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjini020319 把強姦你那個人捅死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2061546702746902913",
+        "created_at": "2026-06-02T23:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061947041035776278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748324404336234496",
+              "start": 0,
+              "username": "jjini020319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061947041035776278",
+        "in_reply_to_user_id": "1748324404336234496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061546702746902913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjini020319 把強姦你那個人捅死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748324404336234496",
+        "conversation_id": "2061546702746902913",
+        "created_at": "2026-06-01T20:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T21:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061546702746902913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061546702746902913",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 399732,
+          "like_count": 4844,
+          "quote_count": 46,
+          "reply_count": 176,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "강간당하고 협박당하고 임신햇다가\n자해하고 입원하고 자살하고 입원하고\n인생이 머 이렇냐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 752,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1370
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T12:40:01.000Z",
+        "description": "062/23 정병있는듯/ 숭계 @jjini69699 입장료팔처넌 옾챗으로 익명송금 / 다른계정없어요XX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jjini69699"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.kakao.com/o/sCIxaomi",
+                "end": 23,
+                "expanded_url": "https://open.kakao.com/o/sCIxaomi",
+                "start": 0,
+                "url": "https://t.co/RI9UZHRaUK"
+              }
+            ]
+          }
+        },
+        "id": "1748324404336234496",
+        "name": "🍒",
+        "pinned_tweet_id": "1891483028393742777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011464468484800512/gESKy6vH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7396,
+          "following_count": 0,
+          "like_count": 1225,
+          "listed_count": 12,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/RI9UZHRaUK",
+        "username": "jjini020319",
+        "verified": false
+      }
+    ]
+  }
+}

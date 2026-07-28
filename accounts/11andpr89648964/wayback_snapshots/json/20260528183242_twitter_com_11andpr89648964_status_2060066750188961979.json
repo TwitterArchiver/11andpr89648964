@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060066738423926784"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060066750188961979",
+    "created_at": "2026-05-28T18:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060066750188961979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ofhU4Sk0ys",
+          "end": 48,
+          "expanded_url": "https://x.com/11andpr89648964/status/2060066750188961979/photo/1",
+          "media_key": "3_2060066738423926784",
+          "start": 25,
+          "url": "https://t.co/ofhU4Sk0ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060066750188961979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发出去惹！！第二个明天发 喹硫平已经马上把我放倒 https://t.co/ofhU4Sk0ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2060066738423926784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbTyK1bEAA-vKJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060066738423926784"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060066750188961979",
+        "created_at": "2026-05-28T18:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060066750188961979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofhU4Sk0ys",
+              "end": 48,
+              "expanded_url": "https://x.com/11andpr89648964/status/2060066750188961979/photo/1",
+              "media_key": "3_2060066738423926784",
+              "start": 25,
+              "url": "https://t.co/ofhU4Sk0ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060066750188961979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发出去惹！！第二个明天发 喹硫平已经马上把我放倒 https://t.co/ofhU4Sk0ys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 708,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1231
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065480355088667100",
+    "created_at": "2026-06-13T07:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065692016680587666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917293861384364032",
+          "start": 0,
+          "username": "user866458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065692016680587666",
+    "in_reply_to_user_id": "1917293861384364032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065591066771038412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user866458 感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T07:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065692016680587666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917293861384364032",
+              "start": 0,
+              "username": "user866458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065692016680587666",
+        "in_reply_to_user_id": "1917293861384364032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065591066771038412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user866458 感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917293861384364032",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T00:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065591066771038412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065591066771038412",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065480355088667100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 856,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1625
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T19:04:21.000Z",
+        "description": "长居长沙/千禧年摄影师/偏好拍摄女体和情绪/想做cult电影/你好我只会对待你更好，很真诚但不服务上帝/合作约拍请直接私信或者电报发讯息⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/user866458wass…",
+                "end": 23,
+                "expanded_url": "https://t.me/user866458wassad",
+                "start": 0,
+                "url": "https://t.co/V1PvFHgaTS"
+              }
+            ]
+          }
+        },
+        "id": "1917293861384364032",
+        "location": "长沙",
+        "name": "用户866458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917294575259115523/vGZfnsB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/V1PvFHgaTS",
+        "username": "user866458",
+        "verified": false
+      }
+    ]
+  }
+}

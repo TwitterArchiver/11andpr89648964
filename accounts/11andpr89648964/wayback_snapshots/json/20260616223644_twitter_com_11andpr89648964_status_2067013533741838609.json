@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066753987035234471",
+    "created_at": "2026-06-16T22:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T23:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067013533741838609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2020440403401687040",
+          "start": 0,
+          "username": "lzslnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067013533741838609",
+    "in_reply_to_user_id": "2020440403401687040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066753987035234471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzslnb666 这个事情抖音上不都火得烂了吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93466,
+        "height": 1056,
+        "media_key": "13_2066753755664850944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066753755664850944/img/X8RwmwJSN6ohj_nV.jpg",
+        "public_metrics": {
+          "view_count": 65215
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066753755664850944/vid/avc1/320x620/asFSY7U-cl6uq5Cv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066753755664850944/vid/avc1/480x930/qRlY-tM_3Cip635b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066753755664850944/vid/avc1/544x1056/N59HTE-iiJgg3XSd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066753755664850944/pl/TB_T6KGNEg_rulhg.m3u8?v=f71"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066753987035234471",
+        "created_at": "2026-06-16T22:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067013533741838609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2020440403401687040",
+              "start": 0,
+              "username": "lzslnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067013533741838609",
+        "in_reply_to_user_id": "2020440403401687040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066753987035234471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzslnb666 这个事情抖音上不都火得烂了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066753755664850944"
+          ]
+        },
+        "author_id": "2020440403401687040",
+        "conversation_id": "2066753987035234471",
+        "created_at": "2026-06-16T05:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066753987035234471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RtNEJzdDK",
+              "end": 39,
+              "expanded_url": "https://x.com/lzslnb666/status/2066753987035234471/video/1",
+              "media_key": "13_2066753755664850944",
+              "start": 16,
+              "url": "https://t.co/6RtNEJzdDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066753987035234471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 75914,
+          "like_count": 334,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "请大家关注浙江小洛熙事件 谢谢 https://t.co/6RtNEJzdDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 897,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1743
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T10:11:59.000Z",
+        "description": "请关注浙江小洛熙事件",
+        "id": "2020440403401687040",
+        "location": "上海",
+        "name": "李泽书烂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047505359754199040/vLsfJzc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "lzslnb666",
+        "verified": false
+      }
+    ]
+  }
+}

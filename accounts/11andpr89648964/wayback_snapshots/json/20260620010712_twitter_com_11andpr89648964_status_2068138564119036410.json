@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067814034733470186",
+    "created_at": "2026-06-20T01:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068138564119036410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039250355569987584",
+          "start": 0,
+          "username": "CherylLuca37991"
+        },
+        {
+          "end": 30,
+          "id": "1863630109921660928",
+          "start": 17,
+          "username": "xiaozhou0616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068138564119036410",
+    "in_reply_to_user_id": "2039250355569987584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068017251039772720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CherylLuca37991 @xiaozhou0616 猫妈妈要抱抱（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067814034733470186",
+        "created_at": "2026-06-20T01:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068138564119036410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039250355569987584",
+              "start": 0,
+              "username": "CherylLuca37991"
+            },
+            {
+              "end": 30,
+              "id": "1863630109921660928",
+              "start": 17,
+              "username": "xiaozhou0616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068138564119036410",
+        "in_reply_to_user_id": "2039250355569987584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068017251039772720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CherylLuca37991 @xiaozhou0616 猫妈妈要抱抱（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039250355569987584",
+        "conversation_id": "2067814034733470186",
+        "created_at": "2026-06-19T17:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068017251039772720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863630109921660928",
+              "start": 0,
+              "username": "xiaozhou0616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068017251039772720",
+        "in_reply_to_user_id": "1863630109921660928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067814034733470186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhou0616 说过多少次了在q群里买卖的都是骗子和晶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 906,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T07:55:48.000Z",
+        "description": "一个死去的人",
+        "id": "2039250355569987584",
+        "name": "猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067999752835452928/kZ-K0f8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "CherylLuca37991",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T17:03:47.000Z",
+        "description": "@OvO_711_616 这个号已经被盗了 发的东西不要信｜sub/m｜前世被奸人所害 这辈子带着小号卷土重来｜关评论的是广告❗️｜不接任何形式的线下｜enfp 168/92｜偷我照片替我挡灾一辈子｜自用vpn👇｜无飞机❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "OvO_711_616"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=Xh6Xl1Wn",
+                "start": 0,
+                "url": "https://t.co/Cx7E0rgSLE"
+              }
+            ]
+          }
+        },
+        "id": "1863630109921660928",
+        "location": "纯绿🚪188",
+        "name": "粥粥_ovo（6w粉丝号已被盗 不要被骗",
+        "pinned_tweet_id": "1987188293755412927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863630675125080065/XqwNlf5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13809,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 143,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/Cx7E0rgSLE",
+        "username": "xiaozhou0616",
+        "verified": false
+      }
+    ]
+  }
+}

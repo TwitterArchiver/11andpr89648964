@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2068400784715509872",
+    "created_at": "2026-06-20T18:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068400784715509872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/selahalph/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/selahalph/status/2068118409712382014",
+          "start": 8,
+          "url": "https://t.co/59dokltTLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068400784715509872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068118409712382014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "撒旦教信徒爽了 https://t.co/59dokltTLf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2068400784715509872",
+        "created_at": "2026-06-20T18:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068400784715509872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/selahalph/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/selahalph/status/2068118409712382014",
+              "start": 8,
+              "url": "https://t.co/59dokltTLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068400784715509872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068118409712382014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撒旦教信徒爽了 https://t.co/59dokltTLf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688103097275449344",
+        "conversation_id": "2067922020625793378",
+        "created_at": "2026-06-19T23:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068118409712382014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068118409712382014",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13637,
+          "like_count": 2,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922020625793378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 自杀必下地狱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 909,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:22:10.000Z",
+        "description": "Acts 13:36  \nDavid Served God's Purpose in his generation.",
+        "id": "1688103097275449344",
+        "location": "Canada",
+        "name": "✝️ Selah❤️‍🔥",
+        "pinned_tweet_id": "2068200867279618430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068198460663435264/UMRwa8Ga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 225,
+          "like_count": 6597,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "SelahAlph",
+        "verified": false
+      }
+    ]
+  }
+}

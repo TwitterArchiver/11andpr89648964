@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2068505180992332106",
+    "created_at": "2026-06-26T07:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070405318186861054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070405318186861054",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068505180992332106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 唉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2068505180992332106",
+        "created_at": "2026-06-26T07:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405318186861054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405318186861054",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068505180992332106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 唉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068505180992332106",
+        "created_at": "2026-06-21T01:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068505180992332106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068505180992332106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5951,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "先写个临时顶置\n这里是X-square/公子，od与策划药圈的科普博主/准律师/学院派药师/地雷女爱好者\n冤假错案（1/1）无罪/赔偿/追责进行中\n希望成为药圈的下一位教皇/红衣枢机\n转发/评论/点赞本条可参与抽奖，5个88口令红包，7.15开奖，希望大家冲起来\n永远怀念我的引路人和导师，伟大的爱礼酱\nR.I.P🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 947,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 607,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1761
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067183783913353381",
+    "created_at": "2026-06-17T18:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067316229988401515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "ysawa325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067316229988401515",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067204636235513874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysawa325 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067183783913353381",
+        "created_at": "2026-06-17T18:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067316229988401515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "ysawa325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067316229988401515",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067204636235513874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysawa325 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2067183783913353381",
+        "created_at": "2026-06-17T11:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067204636235513874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067204636235513874",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067183783913353381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 好大的碗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 902,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "我没钱，不要在我这里求得金钱。我就一男傻逼。距离他妈是假的。\n🚪34/68/136",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com/zh",
+                "end": 23,
+                "expanded_url": "https://arcaea.lowiro.com/zh",
+                "start": 0,
+                "url": "https://t.co/T15QFpyRbx"
+              }
+            ]
+          }
+        },
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "虚无（渴望被拯救）",
+        "pinned_tweet_id": "2066143926436937762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 583,
+          "like_count": 13372,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 12246
+        },
+        "url": "https://t.co/T15QFpyRbx",
+        "username": "ysawa325",
+        "verified": false
+      }
+    ]
+  }
+}

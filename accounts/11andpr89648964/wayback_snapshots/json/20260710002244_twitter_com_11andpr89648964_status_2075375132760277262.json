@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2075190239468179944",
+    "created_at": "2026-07-10T00:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T01:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075375132760277262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075375132760277262",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075286519691288955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 你cos的话一定会很漂亮的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2075190239468179944",
+        "created_at": "2026-07-10T00:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075375132760277262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075375132760277262",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075286519691288955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 你cos的话一定会很漂亮的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374724817119772674",
+        "conversation_id": "2075190239468179944",
+        "created_at": "2026-07-09T18:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075286519691288955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286519691288955",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075190239468179944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 哇哇哇好可爱的糖糖，我以后也要穿w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 975,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2083
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼笔记站长 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2074743815743873500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 168,
+          "like_count": 1801,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true
+      }
+    ]
+  }
+}

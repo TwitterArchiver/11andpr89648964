@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2074913538406273112",
+    "created_at": "2026-07-08T20:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074949749258748410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454870923971006465",
+          "start": 0,
+          "username": "PRUNE2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074949749258748410",
+    "in_reply_to_user_id": "1454870923971006465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074947488164061377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRUNE2003 啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2074913538406273112",
+        "created_at": "2026-07-08T20:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074949749258748410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454870923971006465",
+              "start": 0,
+              "username": "PRUNE2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074949749258748410",
+        "in_reply_to_user_id": "1454870923971006465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074947488164061377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRUNE2003 啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454870923971006465",
+        "conversation_id": "2074913538406273112",
+        "created_at": "2026-07-08T20:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074947488164061377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074947488164061377",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074913538406273112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 填空（自杀的地步）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 972,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T18:02:02.000Z",
+        "description": "03/普通双相地雷女大/爱玩ow·lol/ISFP/耗子妈/brat/switch/泛性恋",
+        "id": "1454870923971006465",
+        "name": "PRUNE NO EMO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872001412907077632/Fm4VY1ic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 77,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "PRUNE2003",
+        "verified": false
+      }
+    ]
+  }
+}

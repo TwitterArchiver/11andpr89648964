@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060637007492288585",
+    "created_at": "2026-05-30T10:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060672903587430761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686428350657740801",
+          "start": 0,
+          "username": "cpshgsdfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060672903587430761",
+    "in_reply_to_user_id": "1686428350657740801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060641387696316567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpshgsdfg 啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060637007492288585",
+        "created_at": "2026-05-30T10:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060672903587430761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686428350657740801",
+              "start": 0,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060672903587430761",
+        "in_reply_to_user_id": "1686428350657740801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060641387696316567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpshgsdfg 啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686428350657740801",
+        "conversation_id": "2060637007492288585",
+        "created_at": "2026-05-30T08:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060641387696316567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060641387696316567",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060637007492288585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 我也是，我想念天天磕pr的日子了，根本不会想性的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 722,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1270
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T17:27:14.000Z",
+        "description": "这里是罗夏，神秘日常男。每周一，周四十二点分享健身日常，不要问为什么是这个时间，因为那两天刚好练胸练腹。私信都会看，发屌的不回。有门槛🚪（互关免门），但是大家有什么想找我的可以给我发私信。过门直接置顶赞赏码备注微信号。\n匿名问答请到https://t.co/3pb5e8ZJiI\n最近状态很差暂时停更",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cpshgsdfg2",
+                "end": 139,
+                "expanded_url": "http://ngl.link/cpshgsdfg2",
+                "start": 116,
+                "url": "https://t.co/3pb5e8ZJiI"
+              }
+            ]
+          }
+        },
+        "id": "1686428350657740801",
+        "location": "🚪52/88/188/520/1888",
+        "name": "ozymandias",
+        "pinned_tweet_id": "2055329252506243491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 270,
+          "like_count": 708,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 1431
+        },
+        "username": "cpshgsdfg",
+        "verified": false
+      }
+    ]
+  }
+}

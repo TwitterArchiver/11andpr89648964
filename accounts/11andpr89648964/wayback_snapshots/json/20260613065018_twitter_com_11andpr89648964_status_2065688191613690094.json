@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065480355088667100",
+    "created_at": "2026-06-13T06:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065688191613690094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1909580857419218946",
+          "start": 0,
+          "username": "j_hh2727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065688191613690094",
+    "in_reply_to_user_id": "1909580857419218946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065591411706388834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j_hh2727 我喜欢4i我可以操你吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T06:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065688191613690094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1909580857419218946",
+              "start": 0,
+              "username": "j_hh2727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065688191613690094",
+        "in_reply_to_user_id": "1909580857419218946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065591411706388834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j_hh2727 我喜欢4i我可以操你吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909580857419218946",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T00:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065591411706388834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065591411706388834",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065480355088667100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 看看逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 854,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1614
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T12:15:41.000Z",
+        "description": "发发牢骚，顺便施法。。",
+        "id": "1909580857419218946",
+        "location": "Izunokuni-shi, Shizuoka",
+        "name": "扮猪吃饲料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912120632445153280/8wEhln-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 73,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 204
+        },
+        "username": "j_hh2727",
+        "verified": false
+      }
+    ]
+  }
+}

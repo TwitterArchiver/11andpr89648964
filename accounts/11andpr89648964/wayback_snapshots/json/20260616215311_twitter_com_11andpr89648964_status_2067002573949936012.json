@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066511030554149072",
+    "created_at": "2026-06-16T21:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067002573949936012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829371164822769664",
+          "start": 0,
+          "username": "yiz1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067002573949936012",
+    "in_reply_to_user_id": "1829371164822769664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066692912193429869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiz1226 握！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066511030554149072",
+        "created_at": "2026-06-16T21:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067002573949936012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829371164822769664",
+              "start": 0,
+              "username": "yiz1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067002573949936012",
+        "in_reply_to_user_id": "1829371164822769664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066692912193429869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiz1226 握！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829371164822769664",
+        "conversation_id": "2066511030554149072",
+        "created_at": "2026-06-16T01:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066692912193429869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066692912193429869",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066511030554149072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 漂亮！握紧宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 885,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1734
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T04:11:05.000Z",
+        "description": "请随意和我互动 互fo来私信我！剧烈喜欢你们摸摸贴贴亲亲啃啃\n请吃掉我吧^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rafayel0306",
+                "end": 23,
+                "expanded_url": "http://ngl.link/rafayel0306",
+                "start": 0,
+                "url": "https://t.co/HNDBdwsWJr"
+              }
+            ]
+          }
+        },
+        "id": "1829371164822769664",
+        "location": "天国",
+        "name": "小焱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059679424887595008/YPjdFu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 343,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/HNDBdwsWJr",
+        "username": "yiz1226",
+        "verified": false
+      }
+    ]
+  }
+}

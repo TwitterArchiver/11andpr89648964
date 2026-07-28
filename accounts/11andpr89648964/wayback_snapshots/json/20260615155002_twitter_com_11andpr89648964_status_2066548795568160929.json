@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066524492046987264",
+        "3_2066524492055326720",
+        "3_2066524492156080128",
+        "3_2066524492063752192"
+      ],
+      "media_source_tweet_id": [
+        "2066524499240235409",
+        "2066524499240235409",
+        "2066524499240235409",
+        "2066524499240235409"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066548795568160929",
+    "created_at": "2026-06-15T15:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066548795568160929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492046987264",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492055326720",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492156080128",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        },
+        {
+          "display_url": "pic.x.com/KJQrSukJ6R",
+          "end": 44,
+          "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+          "media_key": "3_2066524492063752192",
+          "start": 21,
+          "url": "https://t.co/KJQrSukJ6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066548795568160929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066524499240235409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: 自介條。 https://t.co/KJQrSukJ6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066524492046987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE5wa8AAEsyS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066524492055326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE5yaMAAgGoE.jpg",
+        "width": 1152
+      },
+      {
+        "height": 382,
+        "media_key": "3_2066524492156080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE6KbkAABo4C.jpg",
+        "width": 382
+      },
+      {
+        "height": 815,
+        "media_key": "3_2066524492063752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3FE50awAAJDsz.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066524492046987264",
+            "3_2066524492055326720",
+            "3_2066524492156080128",
+            "3_2066524492063752192"
+          ],
+          "media_source_tweet_id": [
+            "2066524499240235409",
+            "2066524499240235409",
+            "2066524499240235409",
+            "2066524499240235409"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066548795568160929",
+        "created_at": "2026-06-15T15:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066548795568160929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492046987264",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492055326720",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492156080128",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 44,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492063752192",
+              "start": 21,
+              "url": "https://t.co/KJQrSukJ6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066548795568160929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066524499240235409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: 自介條。 https://t.co/KJQrSukJ6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066524492046987264",
+            "3_2066524492055326720",
+            "3_2066524492156080128",
+            "3_2066524492063752192"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066524499240235409",
+        "created_at": "2026-06-15T14:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066524499240235409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492046987264",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492055326720",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492156080128",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            },
+            {
+              "display_url": "pic.x.com/KJQrSukJ6R",
+              "end": 28,
+              "expanded_url": "https://x.com/ToniLovelace14/status/2066524499240235409/photo/1",
+              "media_key": "3_2066524492063752192",
+              "start": 5,
+              "url": "https://t.co/KJQrSukJ6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066524499240235409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自介條。 https://t.co/KJQrSukJ6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 884,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1724
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号，我已经被 msk 追杀了，用原来的 id 和头像都会被秒封，我 100fo 的抽奖奖品都给大家买好了的😭\n圆角对象：@iirin_120917",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "iirin_120917"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066193442460602368/1Uf4k10S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

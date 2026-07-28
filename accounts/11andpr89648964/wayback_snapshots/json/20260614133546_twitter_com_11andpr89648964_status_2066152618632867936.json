@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066111035967414772",
+    "created_at": "2026-06-14T13:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066152618632867936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066152618632867936",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066111035967414772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 申请看脖子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2066111028799352832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxNCLIaMAAKPwk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066111035967414772",
+        "created_at": "2026-06-14T13:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066152618632867936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066152618632867936",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066111035967414772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 申请看脖子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066111028799352832"
+          ]
+        },
+        "author_id": "1753116711899770880",
+        "conversation_id": "2066111035967414772",
+        "created_at": "2026-06-14T10:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066111035967414772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaqCn5Xlv5",
+              "end": 38,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2066111035967414772/photo/1",
+              "media_key": "3_2066111028799352832",
+              "start": 15,
+              "url": "https://t.co/gaqCn5Xlv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066111035967414772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天瘫着椅子上真的还有未来吗 https://t.co/gaqCn5Xlv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 860,
+          "like_count": 152,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1650
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 272,
+          "like_count": 1393,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

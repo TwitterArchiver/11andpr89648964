@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2071531191430525170",
+    "created_at": "2026-06-30T05:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071829154245595202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071829154245595202",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071695966244073851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru 我的渠道卖家不让推喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2071531191430525170",
+        "created_at": "2026-06-30T05:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071829154245595202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071829154245595202",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071695966244073851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru 我的渠道卖家不让推喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611238295673114625",
+        "conversation_id": "2071531191430525170",
+        "created_at": "2026-06-29T20:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071695966244073851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071695966244073851",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071531191430525170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 请问港米在哪里能买呀🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 966,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 本体是贝加尔海豹🦭🦭🦭🦭🦭🦭🦭丨sh/od负能量  链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 296,
+          "like_count": 7041,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4569
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065735025614819328",
+        "3_2065735025619066880"
+      ],
+      "media_source_tweet_id": [
+        "2065735046192111776",
+        "2065735046192111776"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065744144748904705",
+    "created_at": "2026-06-13T10:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065744144748904705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025216486760157184",
+          "start": 3,
+          "username": "Cosmo2267651"
+        },
+        {
+          "end": 40,
+          "id": "2064837661320437760",
+          "start": 29,
+          "username": "luccccyr1m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3Y120jJcP",
+          "end": 64,
+          "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+          "media_key": "3_2065735025614819328",
+          "start": 41,
+          "url": "https://t.co/R3Y120jJcP"
+        },
+        {
+          "display_url": "pic.x.com/R3Y120jJcP",
+          "end": 64,
+          "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+          "media_key": "3_2065735025619066880",
+          "start": 41,
+          "url": "https://t.co/R3Y120jJcP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065744144748904705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065735046192111776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cosmo2267651: 这个人是骗子避雷一下呀@luccccyr1m https://t.co/R3Y120jJcP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065735025614819328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr3D6HakAAYWMm.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065735025619066880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr3D6IbYAAkGMI.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065735025614819328",
+            "3_2065735025619066880"
+          ],
+          "media_source_tweet_id": [
+            "2065735046192111776",
+            "2065735046192111776"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065744144748904705",
+        "created_at": "2026-06-13T10:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065744144748904705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025216486760157184",
+              "start": 3,
+              "username": "Cosmo2267651"
+            },
+            {
+              "end": 40,
+              "id": "2064837661320437760",
+              "start": 29,
+              "username": "luccccyr1m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3Y120jJcP",
+              "end": 64,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+              "media_key": "3_2065735025614819328",
+              "start": 41,
+              "url": "https://t.co/R3Y120jJcP"
+            },
+            {
+              "display_url": "pic.x.com/R3Y120jJcP",
+              "end": 64,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+              "media_key": "3_2065735025619066880",
+              "start": 41,
+              "url": "https://t.co/R3Y120jJcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065744144748904705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065735046192111776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cosmo2267651: 这个人是骗子避雷一下呀@luccccyr1m https://t.co/R3Y120jJcP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065735025614819328",
+            "3_2065735025619066880"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2065735046192111776",
+        "created_at": "2026-06-13T09:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065735046192111776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2064837661320437760",
+              "start": 11,
+              "username": "luccccyr1m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3Y120jJcP",
+              "end": 46,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+              "media_key": "3_2065735025614819328",
+              "start": 23,
+              "url": "https://t.co/R3Y120jJcP"
+            },
+            {
+              "display_url": "pic.x.com/R3Y120jJcP",
+              "end": 46,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2065735046192111776/photo/1",
+              "media_key": "3_2065735025619066880",
+              "start": 23,
+              "url": "https://t.co/R3Y120jJcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065735046192111776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个人是骗子避雷一下呀@luccccyr1m https://t.co/R3Y120jJcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 863,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1630
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder 大號封了/👩\n➕lx有34🚪、互关、喜欢的免费、低能量频道不喜欢划走 infp 穷逼党",
+        "id": "2025216486760157184",
+        "name": "C",
+        "pinned_tweet_id": "2063486942873022614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061586381995114496/rUTUjtgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 141,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 95
+        },
+        "username": "Cosmo2267651",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T22:31:39.000Z",
+        "description": "以性别担保自己绝对靠谱！！！持证含糖，hrt2026/7/10，在售色普龙，泰补，日雌，日孕片，司美，普瑞，愈美",
+        "id": "2064837661320437760",
+        "name": "luccccy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064838170722934784/MNpILZGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 44,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 41
+        },
+        "username": "luccccyr1m",
+        "verified": false
+      }
+    ]
+  }
+}

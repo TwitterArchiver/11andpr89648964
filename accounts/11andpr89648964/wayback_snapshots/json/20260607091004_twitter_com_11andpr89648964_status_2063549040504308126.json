@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2063547544014397891",
+    "created_at": "2026-06-07T09:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063549040504308126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949399754523426816",
+          "start": 0,
+          "username": "s_ame251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063549040504308126",
+    "in_reply_to_user_id": "1949399754523426816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063547544014397891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_ame251 太厉害了！！！！！rei酱架子鼓技术太棒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 354300,
+        "height": 720,
+        "media_key": "13_2063546724770336768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063546724770336768/img/qzq5Dtls_J1_0eZ_.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063546724770336768/vid/avc1/480x270/eAHUuehTr5l8EqBo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063546724770336768/vid/avc1/640x360/bwTAk_ueb2S_SPKT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063546724770336768/vid/avc1/1280x720/9d91-UyGNGguCmUf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063546724770336768/pl/7UKWVat8YcLQPY5k.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2063547544014397891",
+        "created_at": "2026-06-07T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063549040504308126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949399754523426816",
+              "start": 0,
+              "username": "s_ame251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063549040504308126",
+        "in_reply_to_user_id": "1949399754523426816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063547544014397891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_ame251 太厉害了！！！！！rei酱架子鼓技术太棒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063546724770336768"
+          ]
+        },
+        "author_id": "1949399754523426816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1521264686661922816",
+              "name": "May Day"
+            }
+          }
+        ],
+        "conversation_id": "2063547544014397891",
+        "created_at": "2026-06-07T09:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063547544014397891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "五月天"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "mayday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5K45A512A",
+              "end": 43,
+              "expanded_url": "https://x.com/s_ame251/status/2063547544014397891/video/1",
+              "media_key": "13_2063546724770336768",
+              "start": 20,
+              "url": "https://t.co/h5K45A512A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063547544014397891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "後來的我們\n\n#五月天 #mayday https://t.co/h5K45A512A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 823,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1485
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T09:21:54.000Z",
+        "description": "06∥もふもふさんど",
+        "id": "1949399754523426816",
+        "name": "rei",
+        "pinned_tweet_id": "1952305683812233718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031264639108132866/C3TzWtcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "s_ame251",
+        "verified": false
+      }
+    ]
+  }
+}

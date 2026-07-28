@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062081964610634038",
+    "created_at": "2026-06-03T17:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062227869192110499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062124814815596544",
+          "start": 0,
+          "username": "iowanzbwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062227869192110499",
+    "in_reply_to_user_id": "2062124814815596544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062216169688371341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iowanzbwu 不知道 ym我肯定断 但是我不吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062081964610634038",
+        "created_at": "2026-06-03T17:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062227869192110499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062124814815596544",
+              "start": 0,
+              "username": "iowanzbwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062227869192110499",
+        "in_reply_to_user_id": "2062124814815596544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062216169688371341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iowanzbwu 不知道 ym我肯定断 但是我不吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062124814815596544",
+        "conversation_id": "2062081964610634038",
+        "created_at": "2026-06-03T16:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062216169688371341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062216169688371341",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062081964610634038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 Pr和Ym两个都会断片嘛？纯提问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 773,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1418
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T10:51:51.000Z",
+        "description": "",
+        "id": "2062124814815596544",
+        "name": "Luo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062125424092872704/VOs6VoX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "iowanzbwu",
+        "verified": false
+      }
+    ]
+  }
+}

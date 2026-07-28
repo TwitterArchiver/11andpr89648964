@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2069584353492111473",
+    "created_at": "2026-06-24T00:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069584353492111473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069584353492111473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我一吃米粉就会想到我爷爷 我爷爷曾经住的那个小区楼下开着一家米粉店 我爷爷带我吃的最后的一样东西是雪糕 绿豆味的 爷爷带我表哥吃的是一碗米粉 爷爷说要去乡下喝喜酒 给我们那次电话后他的手机就再也没有人接电话 他也再也没回来 回来的是爷爷冰冷的尸体 爷爷我好想你…🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2069584353492111473",
+        "created_at": "2026-06-24T00:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069584353492111473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069584353492111473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我一吃米粉就会想到我爷爷 我爷爷曾经住的那个小区楼下开着一家米粉店 我爷爷带我吃的最后的一样东西是雪糕 绿豆味的 爷爷带我表哥吃的是一碗米粉 爷爷说要去乡下喝喜酒 给我们那次电话后他的手机就再也没有人接电话 他也再也没回来 回来的是爷爷冰冷的尸体 爷爷我好想你…🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 927,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

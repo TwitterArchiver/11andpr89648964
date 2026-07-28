@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065480355088667100",
+    "created_at": "2026-06-13T07:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065691932911923362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037737864826679296",
+          "start": 0,
+          "username": "Divanc4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065691932911923362",
+    "in_reply_to_user_id": "2037737864826679296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065569587647971524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Divanc4w 啥啊有啥😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T07:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065691932911923362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037737864826679296",
+              "start": 0,
+              "username": "Divanc4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065691932911923362",
+        "in_reply_to_user_id": "2037737864826679296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065569587647971524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Divanc4w 啥啊有啥😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037737864826679296",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-12T22:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065569587647971524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065569587647971524",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065480355088667100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 有毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 856,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1623
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T03:46:34.000Z",
+        "description": "牛逼",
+        "id": "2037737864826679296",
+        "name": "Diva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037740712985587712/JaH8hz_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 111,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "Divanc4w",
+        "verified": false
+      }
+    ]
+  }
+}

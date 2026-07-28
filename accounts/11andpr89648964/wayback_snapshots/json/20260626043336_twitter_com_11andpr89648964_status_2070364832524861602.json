@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2070304723849363526",
+    "created_at": "2026-06-26T04:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070364832524861602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814116529824464896",
+          "start": 0,
+          "username": "yayaya2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070364832524861602",
+    "in_reply_to_user_id": "1814116529824464896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070335203974037875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayaya2025 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070304723849363526",
+        "created_at": "2026-06-26T04:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070364832524861602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814116529824464896",
+              "start": 0,
+              "username": "yayaya2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070364832524861602",
+        "in_reply_to_user_id": "1814116529824464896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070335203974037875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayaya2025 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814116529824464896",
+        "conversation_id": "2070304723849363526",
+        "created_at": "2026-06-26T02:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070335203974037875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335203974037875",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070304723849363526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 哎呀萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 944,
+          "like_count": 176,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T01:54:45.000Z",
+        "description": "小南娘，4i",
+        "id": "1814116529824464896",
+        "location": "yayaya2025",
+        "name": "鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070183240644915206/S4CWGmD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 46,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "yayaya2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062077313832079766",
+    "created_at": "2026-06-03T07:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062077313832079766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pulinnaa/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pulinnaa/status/2062060143488196673",
+          "start": 14,
+          "url": "https://t.co/Sv424Y8Otf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062077313832079766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062060143488196673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去咋没有人给我舌头上贴？ https://t.co/Sv424Y8Otf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2062060135380574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3oxJLaYAAsyLE.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062077313832079766",
+        "created_at": "2026-06-03T07:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062077313832079766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulinnaa/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pulinnaa/status/2062060143488196673",
+              "start": 14,
+              "url": "https://t.co/Sv424Y8Otf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062077313832079766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062060143488196673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去咋没有人给我舌头上贴？ https://t.co/Sv424Y8Otf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062060135380574208"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2062060143488196673",
+        "created_at": "2026-06-03T06:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062060143488196673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhoyCUHT1X",
+              "end": 42,
+              "expanded_url": "https://x.com/pulinnaa/status/2062060143488196673/photo/1",
+              "media_key": "3_2062060135380574208",
+              "start": 19,
+              "url": "https://t.co/zhoyCUHT1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062060143488196673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的我怎么没遇到给我送lsd的人 https://t.co/zhoyCUHT1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 752,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1375
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 191,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2545
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

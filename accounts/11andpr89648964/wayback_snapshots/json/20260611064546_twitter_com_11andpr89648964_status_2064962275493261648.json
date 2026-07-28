@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064962264730644480"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064958779901595717",
+    "created_at": "2026-06-11T06:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064962275493261648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059179856156672000",
+          "start": 0,
+          "username": "huipztt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCTYsFUnqS",
+          "end": 32,
+          "expanded_url": "https://x.com/11andpr89648964/status/2064962275493261648/photo/1",
+          "media_key": "3_2064962264730644480",
+          "start": 9,
+          "url": "https://t.co/zCTYsFUnqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064962275493261648",
+    "in_reply_to_user_id": "2059179856156672000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064961583940522313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huipztt https://t.co/zCTYsFUnqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064962264730644480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg4PTfbMAAtwuR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064962264730644480"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064958779901595717",
+        "created_at": "2026-06-11T06:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064962275493261648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059179856156672000",
+              "start": 0,
+              "username": "huipztt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCTYsFUnqS",
+              "end": 32,
+              "expanded_url": "https://x.com/11andpr89648964/status/2064962275493261648/photo/1",
+              "media_key": "3_2064962264730644480",
+              "start": 9,
+              "url": "https://t.co/zCTYsFUnqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064962275493261648",
+        "in_reply_to_user_id": "2059179856156672000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064961583940522313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huipztt https://t.co/zCTYsFUnqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059179856156672000",
+        "conversation_id": "2064958779901595717",
+        "created_at": "2026-06-11T06:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064961583940522313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064961583940522313",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064958779901595717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 ai提示呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 849,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1573
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T07:49:32.000Z",
+        "description": "ip 广州\nA股基本面\n炒股可以找我聊天\n理财，推荐，咨询有🚪",
+        "id": "2059179856156672000",
+        "name": "huipz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059496966707621888/qiGFkLLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "username": "huipztt",
+        "verified": false
+      }
+    ]
+  }
+}

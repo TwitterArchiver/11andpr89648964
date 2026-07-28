@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2069684499911462966",
+    "created_at": "2026-06-24T07:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069684499911462966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068983484778160128",
+          "start": 3,
+          "username": "xqx070226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069684499911462966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069677482715038055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xqx070226: 帮我转转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2069684499911462966",
+        "created_at": "2026-06-24T07:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069684499911462966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068983484778160128",
+              "start": 3,
+              "username": "xqx070226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069684499911462966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069677482715038055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xqx070226: 帮我转转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068983484778160128",
+        "conversation_id": "2069677482715038055",
+        "created_at": "2026-06-24T07:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069677482715038055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xqx070226/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xqx070226/status/2069677256772051344",
+              "start": 5,
+              "url": "https://t.co/nkD42Hf6gA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069677482715038055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069677256772051344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮我转转 https://t.co/nkD42Hf6gA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 928,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T09:05:35.000Z",
+        "description": "小情绪（5号）寻回互fo\n关于我07男大 重度焦虑抑郁 躁狂 双相 od 自残 sns重度依赖",
+        "id": "2068983484778160128",
+        "name": "小情绪",
+        "pinned_tweet_id": "2069677256772051344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983841247940608/3obnFlFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 60,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "xqx070226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065767643009994896",
+    "created_at": "2026-06-13T12:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065767643009994896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cosmo2267651/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/cosmo2267651/status/2065759598884397415",
+          "start": 36,
+          "url": "https://t.co/3AnuXdlvFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065767643009994896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065759598884397415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "觉得是晶不卖不就得了 他妈是晶有你qq号早他妈把你逮起来问话了 神经病 https://t.co/3AnuXdlvFq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065767643009994896",
+        "created_at": "2026-06-13T12:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065767643009994896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cosmo2267651/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/cosmo2267651/status/2065759598884397415",
+              "start": 36,
+              "url": "https://t.co/3AnuXdlvFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065767643009994896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065759598884397415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "觉得是晶不卖不就得了 他妈是晶有你qq号早他妈把你逮起来问话了 神经病 https://t.co/3AnuXdlvFq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2065759598884397415",
+        "created_at": "2026-06-13T11:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065759598884397415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "2064837661320437760",
+              "start": 69,
+              "username": "luccccyr1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065759598884397415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我想问你给假订单干嘛、我问你你说别急，并且没有告诉我，最后说在国外发货要等很久，我昨天问你你说今天发货，结果给我假订单号，是人都会生气吧@luccccyr1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 863,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1633
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder 大號封了/👩\n➕lx有34🚪、互关、喜欢的免费、低能量频道不喜欢划走 infp 穷逼党",
+        "id": "2025216486760157184",
+        "name": "C",
+        "pinned_tweet_id": "2063486942873022614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061586381995114496/rUTUjtgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 141,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 99
+        },
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

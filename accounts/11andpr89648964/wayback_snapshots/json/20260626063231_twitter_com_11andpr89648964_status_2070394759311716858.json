@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2070313241235144967",
+    "created_at": "2026-06-26T06:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070394759311716858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683510294356824064",
+          "start": 0,
+          "username": "wang_yi7935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070394759311716858",
+    "in_reply_to_user_id": "1683510294356824064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070369387601911906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_yi7935 阿帕兹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070313241235144967",
+        "created_at": "2026-06-26T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070394759311716858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683510294356824064",
+              "start": 0,
+              "username": "wang_yi7935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070394759311716858",
+        "in_reply_to_user_id": "1683510294356824064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070369387601911906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_yi7935 阿帕兹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683510294356824064",
+        "conversation_id": "2070313241235144967",
+        "created_at": "2026-06-26T04:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070369387601911906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070369387601911906",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070313241235144967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 太痛了哥们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 946,
+          "like_count": 176,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1935
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T16:12:03.000Z",
+        "description": "🫪在我故作深沉之时，不要打断我。\n。。。。。。。。。。。。。。。\n\n意识流穷理者+努力无用践行者\n..............................................................\n你想问什么？大胆的提出来，就算我不知道也会告诉你的。",
+        "id": "1683510294356824064",
+        "name": "Avery",
+        "pinned_tweet_id": "2069783963267486005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057434283028176896/jUZ3ZUuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1530
+        },
+        "url": "",
+        "username": "wang_yi7935",
+        "verified": false
+      }
+    ]
+  }
+}

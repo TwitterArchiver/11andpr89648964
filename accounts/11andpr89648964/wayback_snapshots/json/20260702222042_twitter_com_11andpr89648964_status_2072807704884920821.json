@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2072795222044778826",
+    "created_at": "2026-07-02T22:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072807704884920821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784128762596204544",
+          "start": 0,
+          "username": "flybug294584"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072807704884920821",
+    "in_reply_to_user_id": "1784128762596204544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072797875541836209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flybug294584 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2072795222044778826",
+        "created_at": "2026-07-02T22:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072807704884920821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784128762596204544",
+              "start": 0,
+              "username": "flybug294584"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072807704884920821",
+        "in_reply_to_user_id": "1784128762596204544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072797875541836209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flybug294584 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784128762596204544",
+        "conversation_id": "2072795222044778826",
+        "created_at": "2026-07-02T21:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072797875541836209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072797875541836209",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072795222044778826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 962,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T07:53:52.000Z",
+        "description": "鱼的记忆是七秒 我的记忆是一天",
+        "id": "1784128762596204544",
+        "name": "唯（需要扩列版）",
+        "pinned_tweet_id": "2012715351260459288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044459839443898375/7f3RZLTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 222,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "flybug294584",
+        "verified": false
+      }
+    ]
+  }
+}

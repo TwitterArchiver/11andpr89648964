@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2070304723849363526",
+    "created_at": "2026-06-26T07:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070403254748606861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070403254748606861",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070403078004809973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 嘿嘿（享受摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070304723849363526",
+        "created_at": "2026-06-26T07:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070403254748606861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070403254748606861",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070403078004809973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 嘿嘿（享受摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047867480576794624",
+        "conversation_id": "2070304723849363526",
+        "created_at": "2026-06-26T07:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070403078004809973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070403078004809973",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070304723849363526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 好萌呀🥺🫳🏻🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 947,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 242,
+          "like_count": 4987,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

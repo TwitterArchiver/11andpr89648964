@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064987573517512742",
+    "created_at": "2026-06-11T14:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065071661670654108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047614425012776961",
+          "start": 0,
+          "username": "Melody_0v0_"
+        },
+        {
+          "end": 27,
+          "id": "1293882138387980288",
+          "start": 13,
+          "username": "BhawnaniSamit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065071661670654108",
+    "in_reply_to_user_id": "2047614425012776961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064987573517512742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melody_0v0_ @BhawnaniSamit 我我我我我要要要要吃吃吃吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064987573517512742",
+        "created_at": "2026-06-11T14:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065071661670654108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047614425012776961",
+              "start": 0,
+              "username": "Melody_0v0_"
+            },
+            {
+              "end": 27,
+              "id": "1293882138387980288",
+              "start": 13,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065071661670654108",
+        "in_reply_to_user_id": "2047614425012776961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064987573517512742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melody_0v0_ @BhawnaniSamit 我我我我我要要要要吃吃吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047614425012776961",
+        "conversation_id": "2064987573517512742",
+        "created_at": "2026-06-11T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064987573517512742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1293882138387980288",
+              "start": 83,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064987573517512742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂msk抽奖活动！\n一等奖🐱以所有产品任选一个包邮\n二等奖🐱是霜尘购1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖，转赞评喵！\n详情见@BhawnaniSamit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 850,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1583
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:51:52.000Z",
+        "description": "",
+        "id": "2047614425012776961",
+        "name": "痛み♪",
+        "pinned_tweet_id": "2056315867156369630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047619292150239232/cnGphgyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 182,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 583
+        },
+        "username": "Melody_0v0_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T12:09:06.000Z",
+        "description": "我是棉二。。【寻回互fo。。】\n聚集猫咪中！\n猫猫猫零食tg： @LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/hHWhyREu4r"
+              }
+            ]
+          }
+        },
+        "id": "1293882138387980288",
+        "location": "食堂",
+        "name": "mimi",
+        "pinned_tweet_id": "2064987069051510933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064600847338844160/fOowZd8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/hHWhyREu4r",
+        "username": "BhawnaniSamit",
+        "verified": false
+      }
+    ]
+  }
+}

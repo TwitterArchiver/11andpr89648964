@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066355724633129299",
+    "created_at": "2026-06-15T11:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066490502506283139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930534441644175360",
+          "start": 0,
+          "username": "willingbnc75588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066490502506283139",
+    "in_reply_to_user_id": "1930534441644175360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066482193594241101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willingbnc75588 主要是住院天天做那个破治疗气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066355724633129299",
+        "created_at": "2026-06-15T11:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066490502506283139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930534441644175360",
+              "start": 0,
+              "username": "willingbnc75588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066490502506283139",
+        "in_reply_to_user_id": "1930534441644175360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066482193594241101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willingbnc75588 主要是住院天天做那个破治疗气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930534441644175360",
+        "conversation_id": "2066355724633129299",
+        "created_at": "2026-06-15T11:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066482193594241101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066482193594241101",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066355724633129299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 可能要服用新的精神类药物需要监测作用和副反应和肝肾功？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 880,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1706
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:58:39.000Z",
+        "description": "想要变成有钱人/精神病",
+        "id": "1930534441644175360",
+        "location": "HELL",
+        "name": "菜菜子",
+        "pinned_tweet_id": "1931584810344128573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683200886476802/ywV4jJri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 23,
+          "like_count": 18635,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 3885
+        },
+        "username": "willingbnc75588",
+        "verified": false
+      }
+    ]
+  }
+}

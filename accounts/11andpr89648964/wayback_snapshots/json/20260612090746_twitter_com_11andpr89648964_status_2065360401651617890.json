@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065312825699110963",
+    "created_at": "2026-06-12T09:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065360401651617890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022257363030290432",
+          "start": 0,
+          "username": "Xxxtac21111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065360401651617890",
+    "in_reply_to_user_id": "2022257363030290432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065312825699110963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxtac21111 要吃愛吃喵喵喵！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065312818812051456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl3EPNaYAArxGW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065312818820456448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl3EPPaoAA1s2W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065312818820444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl3EPPacAAqf-x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065312825699110963",
+        "created_at": "2026-06-12T09:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065360401651617890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022257363030290432",
+              "start": 0,
+              "username": "Xxxtac21111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065360401651617890",
+        "in_reply_to_user_id": "2022257363030290432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065312825699110963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxtac21111 要吃愛吃喵喵喵！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065312818812051456",
+            "3_2065312818820456448",
+            "3_2065312818820444160"
+          ]
+        },
+        "author_id": "2022257363030290432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065312825699110963",
+        "created_at": "2026-06-12T05:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065312825699110963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeLgqOpeoW",
+              "end": 29,
+              "expanded_url": "https://x.com/Xxxtac21111/status/2065312825699110963/photo/1",
+              "media_key": "3_2065312818812051456",
+              "start": 6,
+              "url": "https://t.co/eeLgqOpeoW"
+            },
+            {
+              "display_url": "pic.x.com/eeLgqOpeoW",
+              "end": 29,
+              "expanded_url": "https://x.com/Xxxtac21111/status/2065312825699110963/photo/1",
+              "media_key": "3_2065312818820456448",
+              "start": 6,
+              "url": "https://t.co/eeLgqOpeoW"
+            },
+            {
+              "display_url": "pic.x.com/eeLgqOpeoW",
+              "end": 29,
+              "expanded_url": "https://x.com/Xxxtac21111/status/2065312825699110963/photo/1",
+              "media_key": "3_2065312818820444160",
+              "start": 6,
+              "url": "https://t.co/eeLgqOpeoW"
+            },
+            {
+              "display_url": "x.com/xxxtac21111/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/xxxtac21111/status/2063256556393877523",
+              "start": 30,
+              "url": "https://t.co/ZhWEpJZ6ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065312825699110963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063256556393877523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到了！！ https://t.co/eeLgqOpeoW https://t.co/ZhWEpJZ6ci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 852,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1607
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:33:35.000Z",
+        "description": "",
+        "id": "2022257363030290432",
+        "name": "陈珂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022258129740906496/B6DlkRDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 68,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "username": "Xxxtac21111",
+        "verified": false
+      }
+    ]
+  }
+}

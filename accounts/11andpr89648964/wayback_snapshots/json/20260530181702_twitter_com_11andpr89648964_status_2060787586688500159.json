@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060787586688500159",
+    "created_at": "2026-05-30T18:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060787586688500159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2055334645441372160",
+          "start": 3,
+          "username": "lilpeep520521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060787586688500159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060610407769997700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @lilpeep520521: 166/89 08年 唉宝宝子们我的大号被封了生活不易希望投喂 线上拉满（线下私信 也接定制图片、视频（cos的话需要你来买衣服因为真的没有钱了 希望可以给你带来情绪价值之前od但是现在我在戒 希望可以成功 有时候会很伤心 需要一个人陪⋯.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060610391328395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjCO7ubkAApwTU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1646,
+        "media_key": "3_2060610391320010752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjCO7sboAAzYW2.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1704,
+        "media_key": "3_2060610391324114945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjCO7taQAEiINy.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1740,
+        "media_key": "3_2060610391311523840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjCO7qaIAAKR2-.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060787586688500159",
+        "created_at": "2026-05-30T18:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060787586688500159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2055334645441372160",
+              "start": 3,
+              "username": "lilpeep520521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060787586688500159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060610407769997700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @lilpeep520521: 166/89 08年 唉宝宝子们我的大号被封了生活不易希望投喂 线上拉满（线下私信 也接定制图片、视频（cos的话需要你来买衣服因为真的没有钱了 希望可以给你带来情绪价值之前od但是现在我在戒 希望可以成功 有时候会很伤心 需要一个人陪⋯.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060610391328395264",
+            "3_2060610391320010752",
+            "3_2060610391324114945",
+            "3_2060610391311523840"
+          ]
+        },
+        "author_id": "2055334645441372160",
+        "conversation_id": "2060610407769997700",
+        "created_at": "2026-05-30T06:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060610407769997700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "樱花妹"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zetbuKbfdD",
+              "end": 176,
+              "expanded_url": "https://x.com/lilpeep520521/status/2060610407769997700/photo/1",
+              "media_key": "3_2060610391328395264",
+              "start": 153,
+              "url": "https://t.co/zetbuKbfdD"
+            },
+            {
+              "display_url": "pic.x.com/zetbuKbfdD",
+              "end": 176,
+              "expanded_url": "https://x.com/lilpeep520521/status/2060610407769997700/photo/1",
+              "media_key": "3_2060610391320010752",
+              "start": 153,
+              "url": "https://t.co/zetbuKbfdD"
+            },
+            {
+              "display_url": "pic.x.com/zetbuKbfdD",
+              "end": 176,
+              "expanded_url": "https://x.com/lilpeep520521/status/2060610407769997700/photo/1",
+              "media_key": "3_2060610391324114945",
+              "start": 153,
+              "url": "https://t.co/zetbuKbfdD"
+            },
+            {
+              "display_url": "pic.x.com/zetbuKbfdD",
+              "end": 176,
+              "expanded_url": "https://x.com/lilpeep520521/status/2060610407769997700/photo/1",
+              "media_key": "3_2060610391311523840",
+              "start": 153,
+              "url": "https://t.co/zetbuKbfdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060610407769997700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "166/89 08年 唉宝宝子们我的大号被封了生活不易希望投喂 线上拉满（线下私信 也接定制图片、视频（cos的话需要你来买衣服因为真的没有钱了 希望可以给你带来情绪价值之前od但是现在我在戒 希望可以成功 有时候会很伤心 需要一个人陪⋯.我真的很脆弱 欢迎女宝们互贴互fo #门槛妹 ＃樱花妹 ＃爸爸活 https://t.co/zetbuKbfdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 723,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1301
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T17:09:13.000Z",
+        "description": "",
+        "id": "2055334645441372160",
+        "name": "H酱",
+        "pinned_tweet_id": "2060610407769997700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059698201029214208/UtTTL7IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 4,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 25
+        },
+        "username": "lilpeep520521",
+        "verified": false
+      }
+    ]
+  }
+}

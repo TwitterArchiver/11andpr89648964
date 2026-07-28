@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064201001578708992"
+      ],
+      "media_source_tweet_id": [
+        "2064201076107321514"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064255183211962870",
+    "created_at": "2026-06-09T07:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064255183211962870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Khu6zb9qCK",
+          "end": 55,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2064201076107321514/video/1",
+          "media_key": "7_2064201001578708992",
+          "start": 32,
+          "url": "https://t.co/Khu6zb9qCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064255183211962870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064201076107321514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1212s1212bs1242: 开始中午的抽烟任务啊 https://t.co/Khu6zb9qCK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35784,
+        "height": 1280,
+        "media_key": "7_2064201001578708992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064201001578708992/pu/img/ddi_rxz0UDUgaBFB.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/320x568/7bTgwTYMD926x4Qj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/480x852/EYYsTHtRFHCMC8Za.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/720x1280/RN4oGJrm79kaMSni.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/pl/6tey47CmanGrdAab.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 35784,
+        "height": 1280,
+        "media_key": "7_2064201001578708992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064201001578708992/pu/img/ddi_rxz0UDUgaBFB.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/320x568/7bTgwTYMD926x4Qj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/480x852/EYYsTHtRFHCMC8Za.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/vid/avc1/720x1280/RN4oGJrm79kaMSni.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064201001578708992/pu/pl/6tey47CmanGrdAab.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064201001578708992"
+          ],
+          "media_source_tweet_id": [
+            "2064201076107321514"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064255183211962870",
+        "created_at": "2026-06-09T07:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064255183211962870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Khu6zb9qCK",
+              "end": 55,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064201076107321514/video/1",
+              "media_key": "7_2064201001578708992",
+              "start": 32,
+              "url": "https://t.co/Khu6zb9qCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064255183211962870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064201076107321514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1212s1212bs1242: 开始中午的抽烟任务啊 https://t.co/Khu6zb9qCK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064201001578708992"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2064201076107321514",
+        "created_at": "2026-06-09T04:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064201076107321514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Khu6zb9qCK",
+              "end": 34,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2064201076107321514/video/1",
+              "media_key": "7_2064201001578708992",
+              "start": 11,
+              "url": "https://t.co/Khu6zb9qCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064201076107321514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开始中午的抽烟任务啊 https://t.co/Khu6zb9qCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 829,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1514
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2063952495240753231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 882,
+          "like_count": 17709,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 9850
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

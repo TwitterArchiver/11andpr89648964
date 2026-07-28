@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064960908049478028",
+    "created_at": "2026-06-11T06:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064960908049478028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1437724402293018625",
+          "start": 3,
+          "username": "2Pikus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064960908049478028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064950910355464250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2Pikus: 账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064960908049478028",
+        "created_at": "2026-06-11T06:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064960908049478028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1437724402293018625",
+              "start": 3,
+              "username": "2Pikus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064960908049478028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064950910355464250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2Pikus: 账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437724402293018625",
+        "conversation_id": "2064950910355464250",
+        "created_at": "2026-06-11T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064950910355464250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064950910355464250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 849,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1570
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T10:26:35.000Z",
+        "description": "这里只有一条棉签...【寻回互fo】\n幽灵ban的僵尸。不卖药，不吸毒\n此号不接收私信请找@BhawnaniSamit\n平等溺爱所有猫咪🐱\n双生子@BhawnaniSamit💊\n猫零食tg：@LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "BhawnaniSamit"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "BhawnaniSamit"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/LSeSQhkVT5"
+              }
+            ]
+          }
+        },
+        "id": "1437724402293018625",
+        "location": "猫粮→",
+        "name": "vivie（此号不接收私信请找@BhawnaniSamit）",
+        "pinned_tweet_id": "2064957272087011467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324176748695552/Avikgr1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 47,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/LSeSQhkVT5",
+        "username": "2Pikus",
+        "verified": false
+      }
+    ]
+  }
+}

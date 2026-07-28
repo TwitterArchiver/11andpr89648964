@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2033808050390196587",
+    "created_at": "2026-05-30T13:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060718097577976160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896948222570147840",
+          "start": 0,
+          "username": "laki954456"
+        },
+        {
+          "end": 24,
+          "id": "1588362906483101696",
+          "start": 12,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060718097577976160",
+    "in_reply_to_user_id": "1896948222570147840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043791485473063088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laki954456 @jkdghalf411 然后你也走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2033808050390196587",
+        "created_at": "2026-05-30T13:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060718097577976160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896948222570147840",
+              "start": 0,
+              "username": "laki954456"
+            },
+            {
+              "end": 24,
+              "id": "1588362906483101696",
+              "start": 12,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060718097577976160",
+        "in_reply_to_user_id": "1896948222570147840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043791485473063088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laki954456 @jkdghalf411 然后你也走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896948222570147840",
+        "conversation_id": "2033808050390196587",
+        "created_at": "2026-04-13T20:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043791485473063088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043791485473063088",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033808050390196587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 啊。哎。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 724,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1290
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "纯发泄负面情绪来的 不用在意的 虽然感觉本来也不会有人在意 生理男心理男 不是可爱的小南娘 取向正常",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "pinned_tweet_id": "2043132258459287794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 116,
+          "like_count": 3590,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 3361
+        },
+        "username": "laki954456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "=小A｜已有男友｜抑郁焦虑睡眠障碍bpd cptsd 双A｜脑子有问题，会odzc（在降频率）｜🚪188仅聊天，看心情发图片｜愿神之爱保佑你",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "水曜日电波幽灵¼",
+        "pinned_tweet_id": "2027385945969053915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027210877875994625/kl1sutD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 620,
+          "like_count": 10647,
+          "listed_count": 17,
+          "media_count": 2400,
+          "tweet_count": 15381
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060413211426640217",
+    "created_at": "2026-05-29T17:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060413211426640217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965716333900992512",
+          "start": 3,
+          "username": "jo0oo0onna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060413211426640217",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059984977874632778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jo0oo0onna: 20센치 아래론 고추로 안보임"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060413211426640217",
+        "created_at": "2026-05-29T17:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060413211426640217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965716333900992512",
+              "start": 3,
+              "username": "jo0oo0onna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060413211426640217",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059984977874632778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jo0oo0onna: 20센치 아래론 고추로 안보임"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965716333900992512",
+        "conversation_id": "2059984977874632778",
+        "created_at": "2026-05-28T13:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059984977874632778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kjvfuz3/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kjvfuz3/status/2059460835261747236",
+              "start": 17,
+              "url": "https://t.co/OZAwXyYZrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059984977874632778",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 1097918,
+          "like_count": 24300,
+          "quote_count": 175,
+          "reply_count": 210,
+          "retweet_count": 2361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059460835261747236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20센치 아래론 고추로 안보임 https://t.co/OZAwXyYZrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 714,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1255
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T09:58:18.000Z",
+        "description": "내보지털은꼬부랑니보지털은빠지직",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/jo0oo0onna",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/jo0oo0onna",
+                "start": 0,
+                "url": "https://t.co/lyJvcMMOd6"
+              }
+            ]
+          }
+        },
+        "id": "1965716333900992512",
+        "location": "비뇨의학과",
+        "name": "양병길",
+        "pinned_tweet_id": "2060351382264373502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060001799348928514/yUdKaUQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 374,
+          "like_count": 28604,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/lyJvcMMOd6",
+        "username": "jo0oo0onna",
+        "verified": false
+      }
+    ]
+  }
+}

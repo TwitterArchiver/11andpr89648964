@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060682565128946062",
+    "created_at": "2026-05-30T11:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060682565128946062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060682565128946062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老冯老豆还敢提治疗的事情 上次治疗我他妈回家维持了半天的健全逼 结果被老冯一刺激又打回原形了  这治疗我治多少次都没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060682565128946062",
+        "created_at": "2026-05-30T11:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060682565128946062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060682565128946062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老冯老豆还敢提治疗的事情 上次治疗我他妈回家维持了半天的健全逼 结果被老冯一刺激又打回原形了  这治疗我治多少次都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 721,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1270
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

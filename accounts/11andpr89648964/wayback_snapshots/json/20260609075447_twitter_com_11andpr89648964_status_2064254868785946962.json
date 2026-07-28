@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064239889483509811",
+    "created_at": "2026-06-09T07:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064254868785946962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060954676934455296",
+          "start": 0,
+          "username": "xiaoyun233333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064254868785946962",
+    "in_reply_to_user_id": "2060954676934455296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064239889483509811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyun233333 抖人就是傻子啊 还说感康平替ymsf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2064239886283198464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWnPWEaUAA7lPQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064239889483509811",
+        "created_at": "2026-06-09T07:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064254868785946962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060954676934455296",
+              "start": 0,
+              "username": "xiaoyun233333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064254868785946962",
+        "in_reply_to_user_id": "2060954676934455296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064239889483509811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyun233333 抖人就是傻子啊 还说感康平替ymsf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064239886283198464"
+          ]
+        },
+        "author_id": "2060954676934455296",
+        "conversation_id": "2064239889483509811",
+        "created_at": "2026-06-09T06:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064239889483509811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1xwXc2WDs",
+              "end": 109,
+              "expanded_url": "https://x.com/xiaoyun233333/status/2064239889483509811/photo/1",
+              "media_key": "3_2064239886283198464",
+              "start": 86,
+              "url": "https://t.co/e1xwXc2WDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064239889483509811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我没理解错的话 那甘草片里面应该没有叶子吧 而且什么叫做甘草片叫ym片的替代品？这俩一个阿片类一个解离剂 而且ym片本身不就是dxm的替代品 是我理解有问题还是什么？ https://t.co/e1xwXc2WDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 829,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1509
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T05:22:04.000Z",
+        "description": "前世@allayaalq 提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "allayaalq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yunyunjiang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yunyunjiang",
+                "start": 0,
+                "url": "https://t.co/NKNMnBQr2W"
+              }
+            ]
+          }
+        },
+        "id": "2060954676934455296",
+        "location": "0.2km",
+        "name": "Ninetta",
+        "pinned_tweet_id": "2061727114634969259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064196569235357696/-38m-Eg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 164,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/NKNMnBQr2W",
+        "username": "xiaoyun233333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065978973964886016"
+      ],
+      "media_source_tweet_id": [
+        "2065978975890100597"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067157197428343075",
+    "created_at": "2026-06-17T08:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067157197428343075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2045025548401823744",
+          "start": 3,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Om5BDovbf",
+          "end": 43,
+          "expanded_url": "https://x.com/ShiXiaomeiMoYa/status/2065978975890100597/photo/1",
+          "media_key": "3_2065978973964886016",
+          "start": 20,
+          "url": "https://t.co/9Om5BDovbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067157197428343075",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065978975890100597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShiXiaomeiMoYa: https://t.co/9Om5BDovbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065978973964886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvU7kiaYAAJ-eq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065978973964886016"
+          ],
+          "media_source_tweet_id": [
+            "2065978975890100597"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067157197428343075",
+        "created_at": "2026-06-17T08:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067157197428343075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2045025548401823744",
+              "start": 3,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Om5BDovbf",
+              "end": 43,
+              "expanded_url": "https://x.com/ShiXiaomeiMoYa/status/2065978975890100597/photo/1",
+              "media_key": "3_2065978973964886016",
+              "start": 20,
+              "url": "https://t.co/9Om5BDovbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067157197428343075",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065978975890100597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShiXiaomeiMoYa: https://t.co/9Om5BDovbf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065978973964886016"
+          ]
+        },
+        "author_id": "2045025548401823744",
+        "conversation_id": "2065978975890100597",
+        "created_at": "2026-06-14T02:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065978975890100597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Om5BDovbf",
+              "end": 23,
+              "expanded_url": "https://x.com/ShiXiaomeiMoYa/status/2065978975890100597/photo/1",
+              "media_key": "3_2065978973964886016",
+              "start": 0,
+              "url": "https://t.co/9Om5BDovbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065978975890100597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Om5BDovbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 899,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1774
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat\n愛～～～你～～～們～～～//🩷🩷🩷//\n是女生是女生是女生！！！\n（生日）\n30/11/2010\nand\n1/6/2026",
+        "id": "2045025548401823744",
+        "name": "camellia",
+        "pinned_tweet_id": "2066857329325375598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 65,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 812
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

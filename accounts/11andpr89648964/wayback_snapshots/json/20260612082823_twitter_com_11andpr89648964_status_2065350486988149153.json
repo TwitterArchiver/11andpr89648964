@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065350403286581248"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065350486988149153",
+    "created_at": "2026-06-12T08:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065350486988149153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lS25sdORXt",
+          "end": 32,
+          "expanded_url": "https://x.com/11andpr89648964/status/2065350486988149153/video/1",
+          "media_key": "13_2065350403286581248",
+          "start": 9,
+          "url": "https://t.co/lS25sdORXt"
+        },
+        {
+          "display_url": "x.com/1212s1212bs124…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/1212s1212bs1242/status/2065309574283091993",
+          "start": 33,
+          "url": "https://t.co/qJ9L0IiaiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065350486988149153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065309574283091993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额迟到了这个任务 https://t.co/lS25sdORXt https://t.co/qJ9L0IiaiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18319,
+        "height": 1280,
+        "media_key": "13_2065350403286581248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065350403286581248/img/6ZznyZzX10pyKvmr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065350403286581248/vid/avc1/320x568/br3JgLpmKQvQ9mvG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065350403286581248/vid/avc1/480x852/JHXOIvVXR-kMSZB5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065350403286581248/vid/avc1/720x1280/PLEsqkj5SS1XW_4u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065350403286581248/pl/YRlMcHjPZ7mgmdp3.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27781,
+        "height": 1280,
+        "media_key": "7_2065309390606147584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065309390606147584/pu/img/wMNvtJ5oj1xaYpSX.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065309390606147584/pu/vid/avc1/320x568/iWNJYaJsCldmXLtb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065309390606147584/pu/vid/avc1/480x852/ejxm9gQDF17TcahO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065309390606147584/pu/vid/avc1/720x1280/xvPkuH94Ij6CLUtD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065309390606147584/pu/pl/pD2mO5I11CdJGmHo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065350403286581248"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065350486988149153",
+        "created_at": "2026-06-12T08:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065350486988149153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lS25sdORXt",
+              "end": 32,
+              "expanded_url": "https://x.com/11andpr89648964/status/2065350486988149153/video/1",
+              "media_key": "13_2065350403286581248",
+              "start": 9,
+              "url": "https://t.co/lS25sdORXt"
+            },
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2065309574283091993",
+              "start": 33,
+              "url": "https://t.co/qJ9L0IiaiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065350486988149153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065309574283091993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额迟到了这个任务 https://t.co/lS25sdORXt https://t.co/qJ9L0IiaiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065309390606147584"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065309574283091993",
+        "created_at": "2026-06-12T05:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065309574283091993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYnUDXMWNv",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065309574283091993/video/1",
+              "media_key": "7_2065309390606147584",
+              "start": 13,
+              "url": "https://t.co/pYnUDXMWNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065309574283091993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人开始今天中午的任务 https://t.co/pYnUDXMWNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 852,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1606
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 903,
+          "like_count": 17321,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 9947
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062221053636837761",
+    "created_at": "2026-06-03T17:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062221053636837761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753116711899770880",
+          "start": 3,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062221053636837761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062217941815533611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elna_elvie9091: 我是前辈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062221053636837761",
+        "created_at": "2026-06-03T17:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062221053636837761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753116711899770880",
+              "start": 3,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062221053636837761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062217941815533611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elna_elvie9091: 我是前辈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753116711899770880",
+        "conversation_id": "2062217941815533611",
+        "created_at": "2026-06-03T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062217941815533611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shivam3228/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/shivam3228/status/2061781359342047285",
+              "start": 5,
+              "url": "https://t.co/q4aVL8xM56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217941815533611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061781359342047285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是前辈 https://t.co/q4aVL8xM56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 768,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1419
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号：@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你看看你身后",
+        "name": "伊井5.0完全体",
+        "pinned_tweet_id": "2062217941815533611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 189,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 486
+        },
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

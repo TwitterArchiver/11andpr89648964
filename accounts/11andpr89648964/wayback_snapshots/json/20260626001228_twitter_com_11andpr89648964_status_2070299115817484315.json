@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2070275490620072216",
+    "created_at": "2026-06-26T00:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070299115817484315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065883862014537728",
+          "start": 0,
+          "username": "jiuweihuwuzhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070299115817484315",
+    "in_reply_to_user_id": "2065883862014537728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070290417048768976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuweihuwuzhe 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070275490620072216",
+        "created_at": "2026-06-26T00:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070299115817484315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065883862014537728",
+              "start": 0,
+              "username": "jiuweihuwuzhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070299115817484315",
+        "in_reply_to_user_id": "2065883862014537728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070290417048768976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuweihuwuzhe 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065883862014537728",
+        "conversation_id": "2070275490620072216",
+        "created_at": "2026-06-25T23:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070290417048768976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070290417048768976",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070275490620072216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 woc睡蒙了，咋还有刚宣誓完就开磕的呢，左脑搏击了右脑吗？(ᗜ ˰ ᗜ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 942,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T19:48:22.000Z",
+        "description": "emmm，至少是一个真人，嗯，对的，没错",
+        "id": "2065883862014537728",
+        "location": "达州渠县",
+        "name": "九尾狐五者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066079763215618048/3XB1B5Hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "jiuweihuwuzhe",
+        "verified": false
+      }
+    ]
+  }
+}

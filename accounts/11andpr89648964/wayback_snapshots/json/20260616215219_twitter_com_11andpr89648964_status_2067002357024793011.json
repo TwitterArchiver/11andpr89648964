@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066208154049020235",
+    "created_at": "2026-06-16T21:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067002357024793011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694626666684039169",
+          "start": 0,
+          "username": "littlearight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067002357024793011",
+    "in_reply_to_user_id": "1694626666684039169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066895176535355726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlearight 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066208154049020235",
+        "created_at": "2026-06-16T21:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067002357024793011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694626666684039169",
+              "start": 0,
+              "username": "littlearight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067002357024793011",
+        "in_reply_to_user_id": "1694626666684039169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066895176535355726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlearight 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694626666684039169",
+        "conversation_id": "2066208154049020235",
+        "created_at": "2026-06-16T14:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066895176535355726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066895176535355726",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066208154049020235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 星空之下是不灭的守望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 885,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1732
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T08:24:34.000Z",
+        "description": "是 #男娘！ IP 南京 接 #线下 萍水相逢 有缘无份 爱吃饭团 爱抽荷花 我心匪石 不可转也 我心匪席 不可卷也 纯绿非绿 有钱就干 咬紧牙关 扶住墙面 疼点总比上班强 账号爆炸 救救我们 前世@Kuranaga0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "线下"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Kuranaga0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lianlianzinya",
+                "end": 23,
+                "expanded_url": "https://t.me/lianlianzinya",
+                "start": 0,
+                "url": "https://t.co/KWIWpBreZq"
+              }
+            ]
+          }
+        },
+        "id": "1694626666684039169",
+        "location": "🚪52不过不回私信",
+        "name": "甜甜怜怜子（二代目",
+        "pinned_tweet_id": "2058607808187342911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059017776346632192/1djCF9Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 65,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/KWIWpBreZq",
+        "username": "littlearight",
+        "verified": false
+      }
+    ]
+  }
+}

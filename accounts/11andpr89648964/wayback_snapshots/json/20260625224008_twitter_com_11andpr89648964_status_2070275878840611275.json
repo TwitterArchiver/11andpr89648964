@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2069562502133022826",
+    "created_at": "2026-06-25T22:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T23:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070275878840611275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "993040936929128449",
+          "start": 0,
+          "username": "RGYHISOPEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070275878840611275",
+    "in_reply_to_user_id": "993040936929128449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070014928048763283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RGYHISOPEN 洗美了洗性情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2069562502133022826",
+        "created_at": "2026-06-25T22:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T23:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070275878840611275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "993040936929128449",
+              "start": 0,
+              "username": "RGYHISOPEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070275878840611275",
+        "in_reply_to_user_id": "993040936929128449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070014928048763283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RGYHISOPEN 洗美了洗性情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993040936929128449",
+        "conversation_id": "2069562502133022826",
+        "created_at": "2026-06-25T05:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070014928048763283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070014928048763283",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069562502133022826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 不会累 越洗越美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 940,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-06T08:13:03.000Z",
+        "description": "诶呀",
+        "id": "993040936929128449",
+        "name": "RGYHISOPEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036780717540290560/W0bYu217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 695,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "RGYHISOPEN",
+        "verified": false
+      }
+    ]
+  }
+}

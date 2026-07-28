@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067076273499947305",
+    "created_at": "2026-06-17T07:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067146371887714550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067146371887714550",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067076273499947305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 我送你的打火机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067076159482056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-60LGbUAARiVX.jpg",
+        "width": 964
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067076163424706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-60ZybYAAex5T.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 15546,
+        "height": 1280,
+        "media_key": "7_2067076168101363712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067076168101363712/pu/img/vK_nPsPlr5oK0Psk.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067076168101363712/pu/vid/avc1/320x568/xs7FrEDnfkThskaB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067076168101363712/pu/vid/avc1/480x852/R3q8RlB0nlTJVkZ-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067076168101363712/pu/vid/avc1/720x1280/xn8TY77FXRMkXemm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067076168101363712/pu/pl/yugilLI4T7QVlgue.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067076273499947305",
+        "created_at": "2026-06-17T07:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067146371887714550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067146371887714550",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067076273499947305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 我送你的打火机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067076159482056704",
+            "3_2067076163424706560",
+            "7_2067076168101363712"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067076273499947305",
+        "created_at": "2026-06-17T02:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067076273499947305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rURDx1Cydd",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067076273499947305/video/1",
+              "media_key": "3_2067076159482056704",
+              "start": 5,
+              "url": "https://t.co/rURDx1Cydd"
+            },
+            {
+              "display_url": "pic.x.com/rURDx1Cydd",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067076273499947305/video/1",
+              "media_key": "3_2067076163424706560",
+              "start": 5,
+              "url": "https://t.co/rURDx1Cydd"
+            },
+            {
+              "display_url": "pic.x.com/rURDx1Cydd",
+              "end": 28,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067076273499947305/video/1",
+              "media_key": "7_2067076168101363712",
+              "start": 5,
+              "url": "https://t.co/rURDx1Cydd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067076273499947305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "便宜好造 https://t.co/rURDx1Cydd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 899,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1768
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 935,
+          "like_count": 17226,
+          "listed_count": 1,
+          "media_count": 900,
+          "tweet_count": 10085
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064854105613599182",
+    "created_at": "2026-06-11T00:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064867375099580653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052592592244858880",
+          "start": 0,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064867375099580653",
+    "in_reply_to_user_id": "2052592592244858880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064854105613599182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honoka_520 刚找到房子就要走吗？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064854105613599182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064854105613599182",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064854105613599182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064854105613599182",
+        "created_at": "2026-06-11T00:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064867375099580653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052592592244858880",
+              "start": 0,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064867375099580653",
+        "in_reply_to_user_id": "2052592592244858880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064854105613599182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honoka_520 刚找到房子就要走吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 844,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1555
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061678192042324339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 280,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 595
+        },
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

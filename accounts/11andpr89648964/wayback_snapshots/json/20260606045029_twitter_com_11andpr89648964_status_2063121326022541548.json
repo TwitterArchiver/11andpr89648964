@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2063121030298902876",
+    "created_at": "2026-06-06T04:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063121326022541548"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063121326022541548",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063121030298902876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找我领奖找我领奖领奖截止到6月9号 如果超过6月9号到10号了还不找我，奖的话就作废啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2063121030298902876",
+        "created_at": "2026-06-06T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063121326022541548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063121326022541548",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063121030298902876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找我领奖找我领奖领奖截止到6月9号 如果超过6月9号到10号了还不找我，奖的话就作废啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2063121030298902876",
+        "created_at": "2026-06-06T04:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063121030298902876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "2061837591792758784",
+              "start": 34,
+              "username": "Secretifyouknow"
+            },
+            {
+              "end": 95,
+              "id": "1785767615484547072",
+              "start": 85,
+              "username": "momoxieZS"
+            },
+            {
+              "end": 127,
+              "id": "1997644719908884480",
+              "start": 115,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 162,
+              "id": "1905850606813855744",
+              "start": 151,
+              "username": "Yukino_TxT"
+            },
+            {
+              "end": 196,
+              "id": "1822805177058893826",
+              "start": 182,
+              "username": "52overdose521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063121030298902876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二等奖（柠檬水✖️5）加两个因为我的手欠第一次抽奖没保存上\n1.  @Secretifyouknow（貓咪已經死了）\n—— “我去恭喜欸！前不久還和你互動來著”\n2.  @momoxieZS（栖栖Zip）\n—— “猫喵”\n3.  @Oz_Garlandd（Gar1andd）\n—— “🥺❤️”\n4.  @Yukino_TxT(好想吃🫐巴菲）\n——“我蹲”\n5.  @52overdose521（胡萝卜🥕）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 810,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1458
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

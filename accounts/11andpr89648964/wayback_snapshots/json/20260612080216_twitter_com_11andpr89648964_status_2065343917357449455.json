@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065142185717329931",
+    "created_at": "2026-06-12T08:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065343917357449455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962445765269471232",
+          "start": 0,
+          "username": "zlyc6112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065343917357449455",
+    "in_reply_to_user_id": "1962445765269471232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065303072738288067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlyc6112 因为被说“不许哭 憋回去”的次数太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065142185717329931",
+        "created_at": "2026-06-12T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065343917357449455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962445765269471232",
+              "start": 0,
+              "username": "zlyc6112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065343917357449455",
+        "in_reply_to_user_id": "1962445765269471232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065303072738288067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlyc6112 因为被说“不许哭 憋回去”的次数太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962445765269471232",
+        "conversation_id": "2065142185717329931",
+        "created_at": "2026-06-12T05:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065303072738288067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065303072738288067",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065142185717329931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 Emmmmm我已经哭不出来了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 852,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1597
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T09:22:08.000Z",
+        "description": "也可以叫我三文鱼｜ 双 性恋｜ oc人 | intp ｜目前是舟批｜皮下男｜文明六重度依赖｜一些吐槽、碎碎念或者转发（作息失调（喜欢有意思的东西（偶尔小头控制大头（经常偶尔（全自动安慰机器（请来找我聊天，但请不要给我发屌，谢谢",
+        "id": "1962445765269471232",
+        "location": "新加坡",
+        "name": "弓也也也（三文鱼重度依赖",
+        "pinned_tweet_id": "2044501208598253689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035593084176932864/ADHib0o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 403,
+          "like_count": 3491,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1626
+        },
+        "username": "zlyc6112",
+        "verified": false
+      }
+    ]
+  }
+}

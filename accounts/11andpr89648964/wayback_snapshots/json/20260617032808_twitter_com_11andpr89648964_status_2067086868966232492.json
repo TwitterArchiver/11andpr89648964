@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067042593884791134",
+    "created_at": "2026-06-17T03:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067086868966232492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2064409614725382144",
+          "start": 0,
+          "username": "Yeyevbxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067086868966232492",
+    "in_reply_to_user_id": "2064409614725382144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067053102944137287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeyevbxu 我不吸毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067042593884791134",
+        "created_at": "2026-06-17T03:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067086868966232492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2064409614725382144",
+              "start": 0,
+              "username": "Yeyevbxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067086868966232492",
+        "in_reply_to_user_id": "2064409614725382144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067053102944137287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeyevbxu 我不吸毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064409614725382144",
+        "conversation_id": "2067042593884791134",
+        "created_at": "2026-06-17T01:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067053102944137287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067053102944137287",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067042593884791134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 一起来根大麻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 898,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1750
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T18:12:38.000Z",
+        "description": "黑心，胁迫，羞辱，控制，粗口，上供母狗，自毁母狗，接投稿，接交友寻主推荐，身边有很多盘口金主。",
+        "id": "2064409614725382144",
+        "location": "柬埔寨",
+        "name": "一个迷人的反派",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065492434570895360/7cHBG6I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 89,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "Yeyevbxu",
+        "verified": false
+      }
+    ]
+  }
+}

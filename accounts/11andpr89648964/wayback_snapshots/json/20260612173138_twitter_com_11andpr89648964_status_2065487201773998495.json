@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065477574894268416"
+      ],
+      "media_source_tweet_id": [
+        "2065477640090497246"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065487201773998495",
+    "created_at": "2026-06-12T17:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065487201773998495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753116711899770880",
+          "start": 3,
+          "username": "elna_elvie9091"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32Wp8bmqNy",
+          "end": 43,
+          "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+          "media_key": "13_2065477574894268416",
+          "start": 20,
+          "url": "https://t.co/32Wp8bmqNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065487201773998495",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065477640090497246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elna_elvie9091: https://t.co/32Wp8bmqNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8543,
+        "height": 1280,
+        "media_key": "13_2065477574894268416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065477574894268416/img/V4N-gTroobePgrnV.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/320x568/xfh1Bj7KRf4bH2VA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/480x852/dGJ1m5LAEYRo6aVh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/720x1280/GUX77WBv328_4zwe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/pl/fzn0ahxHokLvDxX6.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8543,
+        "height": 1280,
+        "media_key": "13_2065477574894268416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065477574894268416/img/V4N-gTroobePgrnV.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/320x568/xfh1Bj7KRf4bH2VA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/480x852/dGJ1m5LAEYRo6aVh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/720x1280/GUX77WBv328_4zwe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/pl/fzn0ahxHokLvDxX6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065477574894268416"
+          ],
+          "media_source_tweet_id": [
+            "2065477640090497246"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065487201773998495",
+        "created_at": "2026-06-12T17:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065487201773998495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753116711899770880",
+              "start": 3,
+              "username": "elna_elvie9091"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Wp8bmqNy",
+              "end": 43,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+              "media_key": "13_2065477574894268416",
+              "start": 20,
+              "url": "https://t.co/32Wp8bmqNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065487201773998495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065477640090497246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elna_elvie9091: https://t.co/32Wp8bmqNy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065477574894268416"
+          ]
+        },
+        "author_id": "1753116711899770880",
+        "conversation_id": "2065477640090497246",
+        "created_at": "2026-06-12T16:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065477640090497246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Wp8bmqNy",
+              "end": 23,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+              "media_key": "13_2065477574894268416",
+              "start": 0,
+              "url": "https://t.co/32Wp8bmqNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065477640090497246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/32Wp8bmqNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 854,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1612
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 267,
+          "like_count": 1207,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2074130424792781278",
+    "created_at": "2026-07-06T17:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074177408253771964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753359592590114816",
+          "start": 0,
+          "username": "bushihaoren129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074177408253771964",
+    "in_reply_to_user_id": "1753359592590114816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074167279730987279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushihaoren129 有没有可能我未成年 实名我爸的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2074130424792781278",
+        "created_at": "2026-07-06T17:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074177408253771964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753359592590114816",
+              "start": 0,
+              "username": "bushihaoren129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177408253771964",
+        "in_reply_to_user_id": "1753359592590114816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074167279730987279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushihaoren129 有没有可能我未成年 实名我爸的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753359592590114816",
+        "conversation_id": "2074130424792781278",
+        "created_at": "2026-07-06T16:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074167279730987279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074167279730987279",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074130424792781278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 濤？男人名字 皮下男，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 969,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T10:08:14.000Z",
+        "description": "",
+        "id": "1753359592590114816",
+        "name": "yukari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774990162608754688/Px5ECUSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 878,
+          "like_count": 5184,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "bushihaoren129",
+        "verified": false
+      }
+    ]
+  }
+}

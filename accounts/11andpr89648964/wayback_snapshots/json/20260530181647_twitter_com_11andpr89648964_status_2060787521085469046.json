@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060787521085469046",
+    "created_at": "2026-05-30T18:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060787521085469046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1177992742452056065",
+          "start": 3,
+          "username": "HL6Qn0uaZzr1Y6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060787521085469046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055148249192005933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HL6Qn0uaZzr1Y6B: 泥嚎！这里斯斯\n\n08bbw巨乳萝莉 主页视频看我更多\n\n有精神疾病需要钱治病\n\n我是粘人小狗！入门的哥哥不要嫌弃我话\n\n多好不好想和哥有很多未来\n\n高档位的哥熟了可以免费找我出来玩呀～\n\n我会很照顾哥的情绪哦现在入门还抵线下哦！\n想被…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060787521085469046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060787521085469046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060787521085469046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055148188471033856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVaY4aagAAYgj_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055148188471058432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVaY4aa4AAnahX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055148188471033856",
+            "3_2055148188471058432"
+          ]
+        },
+        "author_id": "1177992742452056065",
+        "conversation_id": "2055148249192005933",
+        "created_at": "2026-05-15T04:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055148249192005933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIFxw2QA41",
+              "end": 148,
+              "expanded_url": "https://x.com/HL6Qn0uaZzr1Y6B/status/2055148249192005933/photo/1",
+              "media_key": "3_2055148188471033856",
+              "start": 125,
+              "url": "https://t.co/kIFxw2QA41"
+            },
+            {
+              "display_url": "pic.x.com/kIFxw2QA41",
+              "end": 148,
+              "expanded_url": "https://x.com/HL6Qn0uaZzr1Y6B/status/2055148249192005933/photo/1",
+              "media_key": "3_2055148188471058432",
+              "start": 125,
+              "url": "https://t.co/kIFxw2QA41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055148249192005933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12454,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎！这里斯斯\n\n08bbw巨乳萝莉 主页视频看我更多\n\n有精神疾病需要钱治病\n\n我是粘人小狗！入门的哥哥不要嫌弃我话\n\n多好不好想和哥有很多未来\n\n高档位的哥熟了可以免费找我出来玩呀～\n\n我会很照顾哥的情绪哦现在入门还抵线下哦！\n想被爱着想被宠着 https://t.co/kIFxw2QA41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 723,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1300
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-28T17:05:37.000Z",
+        "description": "又重生了坐标成都全国可飞 可以免费验证绝对不是皮下男\n防走丢@korascop7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "korascop7"
+              }
+            ]
+          }
+        },
+        "id": "1177992742452056065",
+        "name": "斯斯酱（免费验证 入门抵线下",
+        "pinned_tweet_id": "2055148249192005933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055147476500598785/MMKB5JLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 64,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "HL6Qn0uaZzr1Y6B",
+        "verified": false
+      }
+    ]
+  }
+}

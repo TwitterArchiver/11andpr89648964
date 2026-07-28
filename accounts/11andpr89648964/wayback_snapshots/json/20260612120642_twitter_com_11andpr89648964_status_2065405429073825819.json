@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064707819782426965",
+    "created_at": "2026-06-12T12:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065405429073825819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863222669208100864",
+          "start": 0,
+          "username": "jiang_yi1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065405429073825819",
+    "in_reply_to_user_id": "1863222669208100864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065402449049862420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_yi1212 日本 东京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064707819782426965",
+        "created_at": "2026-06-12T12:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065405429073825819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863222669208100864",
+              "start": 0,
+              "username": "jiang_yi1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065405429073825819",
+        "in_reply_to_user_id": "1863222669208100864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065402449049862420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_yi1212 日本 东京"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863222669208100864",
+        "conversation_id": "2064707819782426965",
+        "created_at": "2026-06-12T11:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065402449049862420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065402449049862420",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064707819782426965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 852,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1608
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以叫我小溯 我磕 zc 欢迎互fo🚪52不开放朋友圈消息看到都会回\n重抑/精分/躁狂/焦虑……多种问题暂时停止治疗\n我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 114,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 91,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 38,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 98
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

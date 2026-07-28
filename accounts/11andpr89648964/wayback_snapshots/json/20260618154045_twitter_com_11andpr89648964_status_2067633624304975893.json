@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067545729007329281",
+        "3_2067545728956936192",
+        "3_2067545729036632064",
+        "3_2067545729019867136"
+      ],
+      "media_source_tweet_id": [
+        "2067545770711265564",
+        "2067545770711265564",
+        "2067545770711265564",
+        "2067545770711265564"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2067633624304975893",
+    "created_at": "2026-06-18T15:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067633624304975893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLCWdAkzw9",
+          "end": 53,
+          "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+          "media_key": "3_2067545729007329281",
+          "start": 30,
+          "url": "https://t.co/fLCWdAkzw9"
+        },
+        {
+          "display_url": "pic.x.com/fLCWdAkzw9",
+          "end": 53,
+          "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+          "media_key": "3_2067545728956936192",
+          "start": 30,
+          "url": "https://t.co/fLCWdAkzw9"
+        },
+        {
+          "display_url": "pic.x.com/fLCWdAkzw9",
+          "end": 53,
+          "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+          "media_key": "3_2067545729036632064",
+          "start": 30,
+          "url": "https://t.co/fLCWdAkzw9"
+        },
+        {
+          "display_url": "pic.x.com/fLCWdAkzw9",
+          "end": 53,
+          "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+          "media_key": "3_2067545729019867136",
+          "start": 30,
+          "url": "https://t.co/fLCWdAkzw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067633624304975893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067545770711265564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: 这里16.0互关寻回\n爱大家 https://t.co/fLCWdAkzw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067545729007329281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFl4t5boAEedVw.jpg",
+        "width": 946
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2067545728956936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFl4ttasAAv-Os.jpg",
+        "width": 804
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2067545729036632064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFl4uAawAAK67s.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2067545729019867136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFl4t8a8AAjF2N.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067545729007329281",
+            "3_2067545728956936192",
+            "3_2067545729036632064",
+            "3_2067545729019867136"
+          ],
+          "media_source_tweet_id": [
+            "2067545770711265564",
+            "2067545770711265564",
+            "2067545770711265564",
+            "2067545770711265564"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067633624304975893",
+        "created_at": "2026-06-18T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067633624304975893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 53,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729007329281",
+              "start": 30,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 53,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545728956936192",
+              "start": 30,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 53,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729036632064",
+              "start": 30,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 53,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729019867136",
+              "start": 30,
+              "url": "https://t.co/fLCWdAkzw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067633624304975893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067545770711265564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: 这里16.0互关寻回\n爱大家 https://t.co/fLCWdAkzw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067545729007329281",
+            "3_2067545728956936192",
+            "3_2067545729036632064",
+            "3_2067545729019867136"
+          ]
+        },
+        "author_id": "162974851",
+        "conversation_id": "2067545770711265564",
+        "created_at": "2026-06-18T09:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067545770711265564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 38,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729007329281",
+              "start": 15,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 38,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545728956936192",
+              "start": 15,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 38,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729036632064",
+              "start": 15,
+              "url": "https://t.co/fLCWdAkzw9"
+            },
+            {
+              "display_url": "pic.x.com/fLCWdAkzw9",
+              "end": 38,
+              "expanded_url": "https://x.com/Paramjitt/status/2067545770711265564/photo/1",
+              "media_key": "3_2067545729019867136",
+              "start": 15,
+              "url": "https://t.co/fLCWdAkzw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067545770711265564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 439,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这里16.0互关寻回\n爱大家 https://t.co/fLCWdAkzw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 903,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1803
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "思思林",
+        "pinned_tweet_id": "2067545770711265564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067542157100232704/cUFqWLKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2060706813486780490",
+    "created_at": "2026-05-30T12:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060706813486780490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qsmhls/status/…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/qsmhls/status/2060299373293064654",
+          "start": 147,
+          "url": "https://t.co/h1MCuZuOb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060706813486780490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060299373293064654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我初中的时候优美还没禁 当时我也不知道什么是od 他妈的班级同学下课的时候叫了几个同学（包括我）从书包里掏出来两三盒白云山吧。。我问这是啥 他说好吃的 吃完舒服 问我们吃不吃 有一个同学拒绝了 我没拒绝 他好像给了我12t还是多少 反正吃完语文课剧烈解离 老师问我问题我也答不上来 一直在懵逼 https://t.co/h1MCuZuOb2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2060706813486780490",
+        "created_at": "2026-05-30T12:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060706813486780490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qsmhls/status/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/qsmhls/status/2060299373293064654",
+              "start": 147,
+              "url": "https://t.co/h1MCuZuOb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060706813486780490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060299373293064654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初中的时候优美还没禁 当时我也不知道什么是od 他妈的班级同学下课的时候叫了几个同学（包括我）从书包里掏出来两三盒白云山吧。。我问这是啥 他说好吃的 吃完舒服 问我们吃不吃 有一个同学拒绝了 我没拒绝 他好像给了我12t还是多少 反正吃完语文课剧烈解离 老师问我问题我也答不上来 一直在懵逼 https://t.co/h1MCuZuOb2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543072342447771650",
+        "conversation_id": "2060299373293064654",
+        "created_at": "2026-05-29T09:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060299373293064654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060299373293064654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2001,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "任何教唆他人的药物滥用者皆是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 721,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1281
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相情感障碍 边缘型人格障碍/自伤/od/摄影\n 沙卵妹控一个 我的老婆包括但不限于和泉纱雾，谷风天音，七草荠（患七草荠cos ptsd），五更琉璃，桐生瑞叶\n请务必关注防炸@sagirinoinu\nあなた：@kuma02150128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "sagirinoinu"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "kuma02150128"
+              }
+            ]
+          }
+        },
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "pinned_tweet_id": "2043009868068749420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042141530035777536/YyMyBwrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 164,
+          "like_count": 4908,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1998
+        },
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

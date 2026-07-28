@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062744696313835841",
+    "created_at": "2026-06-05T21:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T22:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063009667341779179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        },
+        {
+          "end": 22,
+          "id": "1830321903522942976",
+          "start": 8,
+          "username": "miomio1560881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063009667341779179",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062997006097014862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS @miomio1560881 那宝宝你再等等吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062744696313835841",
+        "created_at": "2026-06-05T21:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063009667341779179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            },
+            {
+              "end": 22,
+              "id": "1830321903522942976",
+              "start": 8,
+              "username": "miomio1560881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063009667341779179",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062997006097014862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS @miomio1560881 那宝宝你再等等吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2062744696313835841",
+        "created_at": "2026-06-05T20:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062997006097014862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            },
+            {
+              "end": 31,
+              "id": "1830321903522942976",
+              "start": 17,
+              "username": "miomio1560881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062997006097014862",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062911470493679976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 @miomio1560881 我也是。不过我还有三年。我肯定是融入不了这个社会的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 807,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1453
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|戒药|戒割|坏小孩（理解能力有问题，冒泡勿喷）  门槛🚪66.6",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王（寻互关",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062103443301617664/8NNDTdS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 544,
+          "like_count": 41900,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 12539
+        },
+        "username": "STULRS",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T19:08:50.000Z",
+        "description": "请入我🚪互转互粉随时欢迎！\n52/88/188/252/520/1314入门不退不要欺负我！ \n喜欢💊 纹身 穿孔 小动物 尼古丁 余额为0️⃣",
+        "id": "1830321903522942976",
+        "location": "奥比岛",
+        "name": "neko",
+        "pinned_tweet_id": "2050908198711026020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031794264976605190/YG02D00I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 81,
+          "like_count": 1078,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 610
+        },
+        "username": "miomio1560881",
+        "verified": false
+      }
+    ]
+  }
+}

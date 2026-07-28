@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2064677044282376339",
+    "created_at": "2026-06-10T12:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686652220637412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858102501381414912",
+          "start": 0,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686652220637412",
+    "in_reply_to_user_id": "1858102501381414912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064677044282376339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaofushijian 行 送我这来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064677032097964032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc00lIbYAAHA04.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064677044282376339",
+        "created_at": "2026-06-10T12:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686652220637412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686652220637412",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677044282376339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 行 送我这来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064677032097964032"
+          ]
+        },
+        "author_id": "1858102501381414912",
+        "conversation_id": "2064677044282376339",
+        "created_at": "2026-06-10T11:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064677044282376339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDtYWVXufm",
+              "end": 27,
+              "expanded_url": "https://x.com/zaofushijian/status/2064677044282376339/photo/1",
+              "media_key": "3_2064677032097964032",
+              "start": 4,
+              "url": "https://t.co/MDtYWVXufm"
+            },
+            {
+              "display_url": "x.com/zaofushijian/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/zaofushijian/status/2064674655643041860",
+              "start": 28,
+              "url": "https://t.co/Ymss2LXfs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064677044282376339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064674655643041860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打死了 https://t.co/MDtYWVXufm https://t.co/Ymss2LXfs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 829,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1525
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2061884741323018749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 182,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 1108,
+          "tweet_count": 8080
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

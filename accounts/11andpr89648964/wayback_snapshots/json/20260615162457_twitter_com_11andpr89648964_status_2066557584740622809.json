@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066557584740622809",
+    "created_at": "2026-06-15T16:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066557584740622809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2066343787933368321",
+          "start": 3,
+          "username": "ccaki__lonely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066557584740622809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066346699707277622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccaki__lonely: 复活复活 这是橙子的新x号 想买港美的和欢迎进群药物咨询 转下这条推等100fo的时候随机抽一个人送100t港美呀\n\n橙子提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2740,
+        "media_key": "3_2066346205219876864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0i7PkbcAAYrU5.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066557584740622809",
+        "created_at": "2026-06-15T16:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066557584740622809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2066343787933368321",
+              "start": 3,
+              "username": "ccaki__lonely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066557584740622809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066346699707277622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccaki__lonely: 复活复活 这是橙子的新x号 想买港美的和欢迎进群药物咨询 转下这条推等100fo的时候随机抽一个人送100t港美呀\n\n橙子提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066346205219876864"
+          ]
+        },
+        "author_id": "2066343787933368321",
+        "conversation_id": "2066346699707277622",
+        "created_at": "2026-06-15T02:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066346699707277622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8cfVFpKqW",
+              "end": 131,
+              "expanded_url": "https://x.com/ccaki__lonely/status/2066346699707277622/photo/1",
+              "media_key": "3_2066346205219876864",
+              "start": 108,
+              "url": "https://t.co/f8cfVFpKqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066346699707277622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 285,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "复活复活 这是橙子的新x号 想买港美的和欢迎进群药物咨询 转下这条推等100fo的时候随机抽一个人送100t港美呀\n\n橙子提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co/f8cfVFpKqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 886,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1727
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T02:18:52.000Z",
+        "description": "🇭🇰HK | 前世@ccaki_lonely | LGBT gay饰演者 边缘超8cult片导演 | 爱癌晚期 | 港版右美唯一药商 | 二型bpd患者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "ccaki_lonely"
+              }
+            ]
+          }
+        },
+        "id": "2066343787933368321",
+        "name": "橙子是唯一的彌賽亞",
+        "pinned_tweet_id": "2066346699707277622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066345056387354624/Tu20i7fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "ccaki__lonely",
+        "verified": false
+      }
+    ]
+  }
+}

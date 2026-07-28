@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070045890849783808",
+        "3_2070045890849681408"
+      ],
+      "media_source_tweet_id": [
+        "2070045897464123829",
+        "2070045897464123829"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2070306207848673502",
+    "created_at": "2026-06-26T00:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070306207848673502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912198403146252288",
+          "start": 3,
+          "username": "colorhada_v"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWx2ILAmzF",
+          "end": 64,
+          "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+          "media_key": "3_2070045890849783808",
+          "start": 41,
+          "url": "https://t.co/xWx2ILAmzF"
+        },
+        {
+          "display_url": "pic.x.com/xWx2ILAmzF",
+          "end": 64,
+          "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+          "media_key": "3_2070045890849681408",
+          "start": 41,
+          "url": "https://t.co/xWx2ILAmzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070306207848673502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070045897464123829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @colorhada_v: 接线下约会有🚪想了解我的看下方欢迎女孩子互转呀 https://t.co/xWx2ILAmzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070045890849783808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpHxSjbwAABSIY.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070045890849681408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpHxSjaMAAYqWa.jpg",
+        "width": 1317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070045890849783808",
+            "3_2070045890849681408"
+          ],
+          "media_source_tweet_id": [
+            "2070045897464123829",
+            "2070045897464123829"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070306207848673502",
+        "created_at": "2026-06-26T00:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070306207848673502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912198403146252288",
+              "start": 3,
+              "username": "colorhada_v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWx2ILAmzF",
+              "end": 64,
+              "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+              "media_key": "3_2070045890849783808",
+              "start": 41,
+              "url": "https://t.co/xWx2ILAmzF"
+            },
+            {
+              "display_url": "pic.x.com/xWx2ILAmzF",
+              "end": 64,
+              "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+              "media_key": "3_2070045890849681408",
+              "start": 41,
+              "url": "https://t.co/xWx2ILAmzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070306207848673502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070045897464123829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @colorhada_v: 接线下约会有🚪想了解我的看下方欢迎女孩子互转呀 https://t.co/xWx2ILAmzF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070045890849783808",
+            "3_2070045890849681408"
+          ]
+        },
+        "author_id": "1912198403146252288",
+        "conversation_id": "2070045897464123829",
+        "created_at": "2026-06-25T07:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070045897464123829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWx2ILAmzF",
+              "end": 47,
+              "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+              "media_key": "3_2070045890849783808",
+              "start": 24,
+              "url": "https://t.co/xWx2ILAmzF"
+            },
+            {
+              "display_url": "pic.x.com/xWx2ILAmzF",
+              "end": 47,
+              "expanded_url": "https://x.com/colorhada_v/status/2070045897464123829/photo/1",
+              "media_key": "3_2070045890849681408",
+              "start": 24,
+              "url": "https://t.co/xWx2ILAmzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070045897464123829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "接线下约会有🚪想了解我的看下方欢迎女孩子互转呀 https://t.co/xWx2ILAmzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 943,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1926
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T17:36:56.000Z",
+        "description": "164.99.d 有🚪188/288/520",
+        "id": "1912198403146252288",
+        "name": "🌧停下",
+        "pinned_tweet_id": "2070045897464123829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068998899797540864/xA9KRo7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 36,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "colorhada_v",
+        "verified": false
+      }
+    ]
+  }
+}

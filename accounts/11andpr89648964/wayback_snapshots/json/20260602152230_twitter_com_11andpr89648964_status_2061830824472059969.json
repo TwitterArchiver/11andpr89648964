@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2061480479065596181",
+    "created_at": "2026-06-02T15:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061830824472059969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "917993404776304640",
+          "start": 0,
+          "username": "real_KamalaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061830824472059969",
+    "in_reply_to_user_id": "917993404776304640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061521021124157491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_KamalaK 别搞别搞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2061480479065596181",
+        "created_at": "2026-06-02T15:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061830824472059969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "917993404776304640",
+              "start": 0,
+              "username": "real_KamalaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061830824472059969",
+        "in_reply_to_user_id": "917993404776304640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061521021124157491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_KamalaK 别搞别搞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917993404776304640",
+        "conversation_id": "2061480479065596181",
+        "created_at": "2026-06-01T18:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061521021124157491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061521021124157491",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061480479065596181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 给你买普瑞 私我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 747,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1342
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T06:00:57.000Z",
+        "description": "可以叫我小佳 \noder/焦虑/互fo/中文\n我喜欢音乐,动漫\n欢迎来和我玩",
+        "id": "917993404776304640",
+        "location": "Hong Kong",
+        "name": "晚风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056798139974307840/MkAlA2Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 270,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "real_KamalaK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2061168101547446353",
+    "created_at": "2026-05-31T19:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061168101547446353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "956640992203083777",
+          "start": 3,
+          "username": "simgegurler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061168101547446353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061147249133142416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simgegurler: 🔝猫猫重生之10.0\n我下海了请多多支持（不是）\n我在攒学费 很需要钱我什么风格都可以驾驭请喜欢上猫猫吧 我会对你好的\n讨厌我的把手机砸了我就死了\n女孩子我们可以一起玩吗 我喜欢你\n转抽这条\n300🚪*1 188🚪*1 52*1\n奶茶*2\n随机…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061168101547446353].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061168101547446353",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061168101547446353"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061147235870728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqqfZfaYAAcF3g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061147235870728192"
+          ]
+        },
+        "author_id": "956640992203083777",
+        "conversation_id": "2061147249133142416",
+        "created_at": "2026-05-31T18:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061147249133142416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 127,
+              "tag": "m"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "门槛"
+            },
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "switch"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "原味客製"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "电子女友"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxeVbSZ8eg",
+              "end": 191,
+              "expanded_url": "https://x.com/simgegurler/status/2061147249133142416/photo/1",
+              "media_key": "3_2061147235870728192",
+              "start": 168,
+              "url": "https://t.co/CxeVbSZ8eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061147249133142416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝猫猫重生之10.0\n我下海了请多多支持（不是）\n我在攒学费 很需要钱我什么风格都可以驾驭请喜欢上猫猫吧 我会对你好的\n讨厌我的把手机砸了我就死了\n女孩子我们可以一起玩吗 我喜欢你\n转抽这条\n300🚪*1 188🚪*1 52*1\n奶茶*2\n随机原味*2\n#m #门槛 #switch #原味客製 #爸爸活 #妈妈活 #电子女友 #反差 https://t.co/CxeVbSZ8eg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 733,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1326
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-25T21:32:40.000Z",
+        "description": "=猫猫🚪188/300/520/1314...我很缺钱所以什么都接我接dzy/外烟/爸爸活/妈妈活/电子女友。线下价格过门咨询哦爱你们\n验证35我很喜欢交朋友 女孩子可以跟我互fo吗爱你们0不过门勿扰。私信只回有礼貌的和口令",
+        "id": "956640992203083777",
+        "location": "你心里",
+        "name": "世一萌猫猫",
+        "pinned_tweet_id": "2061147249133142416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060797409656188928/sLz3zk8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 13,
+          "like_count": 29854,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "username": "simgegurler",
+        "verified": false
+      }
+    ]
+  }
+}

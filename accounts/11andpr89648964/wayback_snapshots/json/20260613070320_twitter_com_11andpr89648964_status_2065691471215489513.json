@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2065480355088667100",
+    "created_at": "2026-06-13T07:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065691471215489513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "234605207",
+          "start": 0,
+          "username": "cdotminus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065691471215489513",
+    "in_reply_to_user_id": "234605207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065662940322390130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdotminus 我爱喝酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065691471215489513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "234605207",
+              "start": 0,
+              "username": "cdotminus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065691471215489513",
+        "in_reply_to_user_id": "234605207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065662940322390130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdotminus 我爱喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "234605207",
+        "conversation_id": "2065480355088667100",
+        "created_at": "2026-06-13T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662940322390130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662940322390130",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065480355088667100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 i only smoke and drink"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 855,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1617
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-06T02:13:31.000Z",
+        "description": "#UndergroundNewAgeOrder freeing palestine🇵🇸with #𝔅ℜ𝔊💞suzuki GZ250🏍️🐈‍⬛clear pilled🌙183cm https://t.co/P6qoAmy6ix https://t.co/n15epJUvLI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 0,
+                "tag": "UndergroundNewAgeOrder"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "𝔅ℜ𝔊"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "remilia.net/~cdotminus",
+                "end": 112,
+                "expanded_url": "http://remilia.net/~cdotminus",
+                "start": 89,
+                "url": "https://t.co/P6qoAmy6ix"
+              },
+              {
+                "display_url": "tiktok.com/@cdotminus",
+                "end": 136,
+                "expanded_url": "http://tiktok.com/@cdotminus",
+                "start": 113,
+                "url": "https://t.co/n15epJUvLI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grooveradio.com/popup-player/",
+                "end": 23,
+                "expanded_url": "https://www.grooveradio.com/popup-player/",
+                "start": 0,
+                "url": "https://t.co/9KVSFcoLkj"
+              }
+            ]
+          }
+        },
+        "id": "234605207",
+        "location": "#𝔅ℜ𝔊 I'm a Witch as a race.",
+        "name": "jeFFF 𝔅ℜownS†ar 𝔊/𝓪𝓬𝓬🎃🌙🐈‍⬛",
+        "pinned_tweet_id": "2038357161403961505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040603995165884416/U_wshE8S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 4960,
+          "like_count": 103270,
+          "listed_count": 33,
+          "media_count": 7786,
+          "tweet_count": 49728
+        },
+        "url": "https://t.co/9KVSFcoLkj",
+        "username": "cdotminus",
+        "verified": false
+      }
+    ]
+  }
+}

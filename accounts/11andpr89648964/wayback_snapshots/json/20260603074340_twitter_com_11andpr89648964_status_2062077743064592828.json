@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061771868680687616"
+      ],
+      "media_source_tweet_id": [
+        "2061771871495106916"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062077743064592828",
+    "created_at": "2026-06-03T07:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062077743064592828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1811772776858157061",
+          "start": 3,
+          "username": "hana_chan0000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0f7BH96eyi",
+          "end": 48,
+          "expanded_url": "https://x.com/hana_chan0000/status/2061771871495106916/photo/1",
+          "media_key": "3_2061771868680687616",
+          "start": 25,
+          "url": "https://t.co/0f7BH96eyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062077743064592828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061771871495106916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hana_chan0000: 意味不明。 https://t.co/0f7BH96eyi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2061771868680687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzil0CbEAAF1fF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061771868680687616"
+          ],
+          "media_source_tweet_id": [
+            "2061771871495106916"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062077743064592828",
+        "created_at": "2026-06-03T07:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062077743064592828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1811772776858157061",
+              "start": 3,
+              "username": "hana_chan0000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0f7BH96eyi",
+              "end": 48,
+              "expanded_url": "https://x.com/hana_chan0000/status/2061771871495106916/photo/1",
+              "media_key": "3_2061771868680687616",
+              "start": 25,
+              "url": "https://t.co/0f7BH96eyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062077743064592828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061771871495106916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hana_chan0000: 意味不明。 https://t.co/0f7BH96eyi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061771868680687616"
+          ]
+        },
+        "author_id": "1811772776858157061",
+        "conversation_id": "2061771871495106916",
+        "created_at": "2026-06-02T11:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061771871495106916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0f7BH96eyi",
+              "end": 29,
+              "expanded_url": "https://x.com/hana_chan0000/status/2061771871495106916/photo/1",
+              "media_key": "3_2061771868680687616",
+              "start": 6,
+              "url": "https://t.co/0f7BH96eyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061771871495106916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3079,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "意味不明。 https://t.co/0f7BH96eyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 752,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1376
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T14:41:22.000Z",
+        "description": "ftx，OD ed，月抛的顺直别来，来默认✂️",
+        "id": "1811772776858157061",
+        "name": "后现代橄榄油",
+        "pinned_tweet_id": "2055229535470367067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055292159159615489/0d5233d3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 60,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 36
+        },
+        "username": "hana_chan0000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062490855286673626",
+    "created_at": "2026-06-04T11:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062490855286673626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2060954676934455296",
+          "start": 3,
+          "username": "xiaoyun233333"
+        },
+        {
+          "end": 31,
+          "id": "1960505849362911232",
+          "start": 21,
+          "username": "allayaalq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062490855286673626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061727114634969259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyun233333: 前世@allayaalq 求帮转 转➕互fo抽两板白普 不折现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062490855286673626",
+        "created_at": "2026-06-04T11:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062490855286673626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2060954676934455296",
+              "start": 3,
+              "username": "xiaoyun233333"
+            },
+            {
+              "end": 31,
+              "id": "1960505849362911232",
+              "start": 21,
+              "username": "allayaalq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062490855286673626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061727114634969259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyun233333: 前世@allayaalq 求帮转 转➕互fo抽两板白普 不折现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060954676934455296",
+        "conversation_id": "2061727114634969259",
+        "created_at": "2026-06-02T08:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061727114634969259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960505849362911232",
+              "start": 2,
+              "username": "allayaalq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061727114634969259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "前世@allayaalq 求帮转 转➕互fo抽两板白普 不折现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 789,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1444
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T05:22:04.000Z",
+        "description": "前世@allayaalq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "allayaalq"
+              }
+            ]
+          }
+        },
+        "id": "2060954676934455296",
+        "location": "。",
+        "name": "小小陨2.0",
+        "pinned_tweet_id": "2061727114634969259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062344593140748288/AvyrgYyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 104,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "xiaoyun233333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T00:53:28.000Z",
+        "description": "泥嚎 我是黑洞总部派来毁灭地球的特别喜欢装可爱的小小生物 如果你和我一样是来毁灭地球的外星人就来和我互fo吧！😈😈😈@Leleucffq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "Leleucffq"
+              }
+            ]
+          }
+        },
+        "id": "1960505849362911232",
+        "location": "Hino-shi, Tokyo",
+        "name": "黑洞陨石啵啵",
+        "pinned_tweet_id": "2054488596934222257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053557683882807296/x8DGE3Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 1677,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 439
+        },
+        "username": "allayaalq",
+        "verified": false
+      }
+    ]
+  }
+}

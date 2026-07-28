@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2071220781271679015",
+    "created_at": "2026-06-28T13:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071220781271679015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azlxy1/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/azlxy1/status/2071033413000392750",
+          "start": 8,
+          "url": "https://t.co/gSX4KtbtwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071220781271679015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071033413000392750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心理医生也是 https://t.co/gSX4KtbtwT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2071220781271679015",
+        "created_at": "2026-06-28T13:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071220781271679015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azlxy1/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/azlxy1/status/2071033413000392750",
+              "start": 8,
+              "url": "https://t.co/gSX4KtbtwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071220781271679015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071033413000392750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心理医生也是 https://t.co/gSX4KtbtwT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2071033413000392750",
+        "created_at": "2026-06-28T00:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071033413000392750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2070756451673620575",
+              "start": 17,
+              "url": "https://t.co/7EsI3cb0jd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071033413000392750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070756451673620575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我医生也是一开口直接问你吸毒吗🤣 https://t.co/7EsI3cb0jd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 966,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 680,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

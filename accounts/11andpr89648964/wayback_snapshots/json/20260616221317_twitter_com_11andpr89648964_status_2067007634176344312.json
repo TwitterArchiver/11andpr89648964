@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066511471232909543",
+    "created_at": "2026-06-16T22:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T23:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067007634176344312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951930939248082944",
+          "start": 0,
+          "username": "Love_OXYcontin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067007634176344312",
+    "in_reply_to_user_id": "951930939248082944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066842981169271278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_OXYcontin 一个薯条"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066511471232909543",
+        "created_at": "2026-06-16T22:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067007634176344312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951930939248082944",
+              "start": 0,
+              "username": "Love_OXYcontin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067007634176344312",
+        "in_reply_to_user_id": "951930939248082944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066842981169271278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_OXYcontin 一个薯条"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "951930939248082944",
+        "conversation_id": "2066511471232909543",
+        "created_at": "2026-06-16T11:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066842981169271278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066842981169271278",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066511471232909543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 堪比一根香蕉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 886,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1740
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 已术后 10年 ADHD 环形心境障碍 BZD/Zdrug/Opioids-重度依赖 不经常上X 有急事尽量TG联系喔\n\n-活着就是为了药物 没有药物我会死-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "天国",
+        "name": "呓语🍥",
+        "pinned_tweet_id": "2066839838385713344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064279049204273152/CEHlbdok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 316,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

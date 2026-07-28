@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066282908936224768"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2066282929014403449",
+    "created_at": "2026-06-14T22:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066282929014403449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qKNTkYSuWh",
+          "end": 32,
+          "expanded_url": "https://x.com/11andpr89648964/status/2066282929014403449/photo/1",
+          "media_key": "3_2066282908936224768",
+          "start": 9,
+          "url": "https://t.co/qKNTkYSuWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066282929014403449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？你继续说我在听 https://t.co/qKNTkYSuWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066282908936224768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzpW6iawAAw0Ll.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066282908936224768"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2066282929014403449",
+        "created_at": "2026-06-14T22:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066282929014403449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKNTkYSuWh",
+              "end": 32,
+              "expanded_url": "https://x.com/11andpr89648964/status/2066282929014403449/photo/1",
+              "media_key": "3_2066282908936224768",
+              "start": 9,
+              "url": "https://t.co/qKNTkYSuWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066282929014403449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？你继续说我在听 https://t.co/qKNTkYSuWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 867,
+          "like_count": 154,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1672
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2062100410169741774",
+    "created_at": "2026-06-03T09:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062100410169741774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/candle0099/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/candle0099/status/2056770454183153750",
+          "start": 18,
+          "url": "https://t.co/hK8FvI9AqI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062100410169741774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056770454183153750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想到林奕含姐姐了…爱不能解决一切 https://t.co/hK8FvI9AqI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2056770446625013761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsd0u-bAAEdsi0.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062100410169741774",
+        "created_at": "2026-06-03T09:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062100410169741774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/candle0099/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/candle0099/status/2056770454183153750",
+              "start": 18,
+              "url": "https://t.co/hK8FvI9AqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062100410169741774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056770454183153750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想到林奕含姐姐了…爱不能解决一切 https://t.co/hK8FvI9AqI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056770446625013761"
+          ]
+        },
+        "author_id": "2013863981132455937",
+        "conversation_id": "2056770454183153750",
+        "created_at": "2026-05-19T16:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056770454183153750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5G7pwrfmN4",
+              "end": 23,
+              "expanded_url": "https://x.com/candle0099/status/2056770454183153750/photo/1",
+              "media_key": "3_2056770446625013761",
+              "start": 0,
+              "url": "https://t.co/5G7pwrfmN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056770454183153750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5G7pwrfmN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 763,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1395
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "9",
+        "id": "2013863981132455937",
+        "location": "在你心里",
+        "name": "烛芯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 107,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 86
+        },
+        "username": "candle0099",
+        "verified": false
+      }
+    ]
+  }
+}

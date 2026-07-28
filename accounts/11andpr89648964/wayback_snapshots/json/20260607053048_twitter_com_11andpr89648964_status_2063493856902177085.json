@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2063252876542320792",
+    "created_at": "2026-06-07T05:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063493856902177085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032956558959849472",
+          "start": 0,
+          "username": "mYs1ee_Terri0r"
+        },
+        {
+          "end": 28,
+          "id": "1975129821111074816",
+          "start": 16,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063493856902177085",
+    "in_reply_to_user_id": "2032956558959849472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063447483699913188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mYs1ee_Terri0r @woaiuai0721 对的对的，那两个人就有说有笑地走远了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2063252876542320792",
+        "created_at": "2026-06-07T05:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063493856902177085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032956558959849472",
+              "start": 0,
+              "username": "mYs1ee_Terri0r"
+            },
+            {
+              "end": 28,
+              "id": "1975129821111074816",
+              "start": 16,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063493856902177085",
+        "in_reply_to_user_id": "2032956558959849472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063447483699913188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mYs1ee_Terri0r @woaiuai0721 对的对的，那两个人就有说有笑地走远了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032956558959849472",
+        "conversation_id": "2063252876542320792",
+        "created_at": "2026-06-07T02:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063447483699913188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            },
+            {
+              "end": 29,
+              "id": "1975129821111074816",
+              "start": 17,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063447483699913188",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063264163972170058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 @woaiuai0721 好噩梦啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 823,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1482
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T23:06:42.000Z",
+        "description": "=尚子\n跨友顺女 | 诞生日 2008 | 喜欢的人会偷偷直 fo(｡ì _ í｡)\n精神疾病者 | ed bmi14.2 | 不登校 | 自伤滥用行为🔪💊| 术力口 | 会画点破画 | 真的很想和大家一起玩\n\n是奇怪的人很抱歉，希望这一生不再会被讨厌也不再会提心吊胆了",
+        "id": "2032956558959849472",
+        "location": "上海",
+        "name": "十八歲的處刑日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063447942007291904/xk71iRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "mYs1ee_Terri0r",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友，无奈之人，欧弟歌手啥的多多少少沾一点，对人类很友善，只是不要骂我\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060670600402939904/TgvcWOMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 153,
+          "like_count": 6734,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1696
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

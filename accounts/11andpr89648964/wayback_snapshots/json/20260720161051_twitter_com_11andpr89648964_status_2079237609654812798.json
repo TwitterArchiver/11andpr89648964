@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2079236451938762828",
+    "created_at": "2026-07-20T16:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079237609654812798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079237609654812798",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079236653416407133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 （吐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2079236451938762828",
+        "created_at": "2026-07-20T16:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079237609654812798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079237609654812798",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079236653416407133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 （吐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "conversation_id": "2079236451938762828",
+        "created_at": "2026-07-20T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079236653416407133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079236653416407133",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079236451938762828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 11烟吐我脸上🥰🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1007,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "",
+        "id": "1866114456411099137",
+        "location": "六本木",
+        "name": "りんこShirokane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 352,
+          "like_count": 2631,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "rinko910409",
+        "verified": false
+      }
+    ]
+  }
+}
