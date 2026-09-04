@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089710418558406656"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2089710485876965399",
+    "created_at": "2026-08-18T13:46:19.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089710485876965399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/73bES1wCtE",
+          "end": 34,
+          "expanded_url": "https://x.com/11andpr89648964/status/2089710485876965399/video/1",
+          "media_key": "13_2089710418558406656",
+          "start": 11,
+          "url": "https://t.co/73bES1wCtE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089710485876965399",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089710418558406656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每次更视频就是大了 https://t.co/73bES1wCtE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15700,
+        "height": 1280,
+        "media_key": "13_2089710418558406656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089710418558406656/img/hxy33cl1j0af17sm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089710418558406656/vid/avc1/320x568/8j9YQTFoAtxM2znR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089710418558406656/vid/avc1/480x852/SM2E9NfV9IQi7Ly-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089710418558406656/vid/avc1/720x1280/6PopRew4A7gDy4yg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089710418558406656/pl/qNeRvYpPqWutqgqj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089710418558406656"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2089710485876965399",
+        "created_at": "2026-08-18T13:46:19.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089710485876965399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73bES1wCtE",
+              "end": 34,
+              "expanded_url": "https://x.com/11andpr89648964/status/2089710485876965399/video/1",
+              "media_key": "13_2089710418558406656",
+              "start": 11,
+              "url": "https://t.co/73bES1wCtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089710485876965399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089710418558406656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次更视频就是大了 https://t.co/73bES1wCtE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2089710485876965399",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 985,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

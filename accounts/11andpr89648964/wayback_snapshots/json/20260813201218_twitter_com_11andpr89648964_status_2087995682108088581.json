@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2087995682108088581",
+    "created_at": "2026-08-13T20:12:18.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087995682108088581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yiziliang/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yiziliang/status/2085568422671442029",
+          "start": 19,
+          "url": "https://t.co/s3Upm5AyrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087995682108088581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085568422671442029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你怎么维护他他都不会舔你的逼的小姐姐 https://t.co/s3Upm5AyrT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2087995682108088581",
+        "created_at": "2026-08-13T20:12:18.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087995682108088581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiziliang/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yiziliang/status/2085568422671442029",
+              "start": 19,
+              "url": "https://t.co/s3Upm5AyrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087995682108088581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085568422671442029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你怎么维护他他都不会舔你的逼的小姐姐 https://t.co/s3Upm5AyrT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514271576950132738",
+        "conversation_id": "2085568422671442029",
+        "created_at": "2026-08-07T03:27:14.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085568422671442029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085568422671442029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 204825,
+          "like_count": 534,
+          "quote_count": 9,
+          "reply_count": 883,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "NIKI做错了0件事，整件事情和他没有任何关系！！你们现在网暴他的人，与当时网暴MINA至死的人有什么区别！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2087995682108088581",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 991,
+          "like_count": 191,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2198
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-13T15:57:50.000Z",
+        "description": "去更广阔的天空",
+        "id": "1514271576950132738",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2085622923486953495",
+        "name": "青羊君",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514271576950132738/1686854497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514272387465814017/V6-SXC5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "yiziliang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

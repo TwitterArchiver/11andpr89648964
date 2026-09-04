@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2088026371671093456",
+    "created_at": "2026-08-14T14:31:22.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088272269890265476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "941565989463851010",
+          "start": 0,
+          "username": "black80731"
+        },
+        {
+          "end": 25,
+          "id": "1550811468009963521",
+          "start": 12,
+          "username": "zhi_cheng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088272269890265476",
+    "in_reply_to_user_id": "941565989463851010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088131575183757664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@black80731 @zhi_cheng233 妨药罪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2088026371671093456",
+        "created_at": "2026-08-14T14:31:22.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272269890265476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "941565989463851010",
+              "start": 0,
+              "username": "black80731"
+            },
+            {
+              "end": 25,
+              "id": "1550811468009963521",
+              "start": 12,
+              "username": "zhi_cheng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272269890265476",
+        "in_reply_to_user_id": "941565989463851010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088131575183757664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@black80731 @zhi_cheng233 妨药罪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941565989463851010",
+        "conversation_id": "2088026371671093456",
+        "created_at": "2026-08-14T05:12:17.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088131575183757664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088131575183757664",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1087,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088026371671093456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 真假他販毒喔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2088272269890265476",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 991,
+          "like_count": 191,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-15T07:10:00.000Z",
+        "description": "",
+        "id": "941565989463851010",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088132477743489446",
+        "name": "熊熊p",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941565989463851010/1690273382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672271307348791296/VDDBiOfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 503,
+          "like_count": 47584,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1690
+        },
+        "url": "",
+        "username": "black80731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "🚪88-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/全栈开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 125,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 102,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "is_identity_verified": false,
+        "location": "广东 IP归属:CLOUDFLARE",
+        "most_recent_tweet_id": "2088215002578915486",
+        "name": "志成",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550811468009963521/1684569210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 925,
+          "like_count": 8764,
+          "listed_count": 5,
+          "media_count": 567,
+          "tweet_count": 3960
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

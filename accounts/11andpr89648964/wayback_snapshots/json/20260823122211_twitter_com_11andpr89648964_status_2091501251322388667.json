@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2091501251322388667",
+    "created_at": "2026-08-23T12:22:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091501251322388667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424145433966776323",
+          "start": 3,
+          "username": "glmslmgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091501251322388667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090796174223765844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glmslmgun: 男的骂人离不开性器官是因为性对男人来说并不止是一种生理上的快感，更是一种权力的行使。他们觉得身下的那根屌能把女人变什么样在某种意义上决定着他的地位，彻彻底底的生殖器崇拜，所以incel男天天惦记着黑人外国人的吊，所以他们骂女人习惯性的荡妇羞辱，但是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2091501251322388667",
+        "created_at": "2026-08-23T12:22:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091501251322388667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424145433966776323",
+              "start": 3,
+              "username": "glmslmgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091501251322388667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090796174223765844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glmslmgun: 男的骂人离不开性器官是因为性对男人来说并不止是一种生理上的快感，更是一种权力的行使。他们觉得身下的那根屌能把女人变什么样在某种意义上决定着他的地位，彻彻底底的生殖器崇拜，所以incel男天天惦记着黑人外国人的吊，所以他们骂女人习惯性的荡妇羞辱，但是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424145433966776323",
+        "conversation_id": "2090796174223765844",
+        "created_at": "2026-08-21T13:40:27.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090796174223765844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090796174223765844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 55947,
+          "like_count": 2834,
+          "quote_count": 6,
+          "reply_count": 119,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "男的骂人离不开性器官是因为性对男人来说并不止是一种生理上的快感，更是一种权力的行使。他们觉得身下的那根屌能把女人变什么样在某种意义上决定着他的地位，彻彻底底的生殖器崇拜，所以incel男天天惦记着黑人外国人的吊，所以他们骂女人习惯性的荡妇羞辱，但是大部分女性都是阴蒂高潮。这很搞笑。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2091501251322388667",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 970,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2232
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-07T23:08:41.000Z",
+        "description": "",
+        "id": "1424145433966776323",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091480941537661210",
+        "name": "脆冰冰",
+        "pinned_tweet_id": "1953728238175559983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1424145433966776323/1765106697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008102974141374464/K58rWE0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33961,
+          "following_count": 168,
+          "like_count": 280,
+          "listed_count": 10,
+          "media_count": 645,
+          "tweet_count": 5111
+        },
+        "url": "",
+        "username": "glmslmgun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

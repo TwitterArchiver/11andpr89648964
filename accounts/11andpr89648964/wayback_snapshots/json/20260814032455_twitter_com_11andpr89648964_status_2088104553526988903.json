@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2088104553526988903",
+    "created_at": "2026-08-14T03:24:55.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088104553526988903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11andpr8964896…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/11andpr89648964/status/2088103902017437862",
+          "start": 113,
+          "url": "https://t.co/3ZvutTaIUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088104553526988903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088103902017437862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完了还指责我说 她干别的事呢 我问啥事 她说她在和闺蜜聊天 我说那凭啥你一叫我给你拿药你叫我一遍我就去给你拿了不论我在干啥 她说“没有为什么”我说行 我他吗还是太孝顺了。。以后别想使唤我给她拿药拿充电器这些小事。。我真无语了 https://t.co/3ZvutTaIUe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2088104553526988903",
+        "created_at": "2026-08-14T03:24:55.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088104553526988903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11andpr8964896…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/11andpr89648964/status/2088103902017437862",
+              "start": 113,
+              "url": "https://t.co/3ZvutTaIUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088104553526988903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088103902017437862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了还指责我说 她干别的事呢 我问啥事 她说她在和闺蜜聊天 我说那凭啥你一叫我给你拿药你叫我一遍我就去给你拿了不论我在干啥 她说“没有为什么”我说行 我他吗还是太孝顺了。。以后别想使唤我给她拿药拿充电器这些小事。。我真无语了 https://t.co/3ZvutTaIUe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2088103902017437862",
+        "created_at": "2026-08-14T03:22:19.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088103902017437862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088103902017437862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼老冯最近阳了让我给找药我二话不说给他找药 我不管是在睡觉还是o大了我都给他找 掰药递水 我这几天来月经了 刚才上厕所想换安睡裤 结果忘记拿到卫生间 我让我老冯帮我拿 我叫了三四遍“妈妈 帮我拿安睡裤”最后一遍我不耐烦了我大声吼 她还指责我说因为我没喊她妈妈她不知道我喊的是她"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2088104553526988903",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 989,
+          "like_count": 191,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2202
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
