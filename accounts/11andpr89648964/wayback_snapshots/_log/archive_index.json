@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-25T07:49:21",
+  "last_updated": "2026-09-25T07:50:54",
   "html": {
     "https://web.archive.org/web/20260528160812if_/https://twitter.com/11andpr89648964/status/2060030387703926927": {
       "status": "done",
@@ -9871,9 +9871,9 @@
         "20260602152148_twitter_com_11andpr89648964_status_2061830649573724256.json",
         "20260602180642_twitter_com_11andpr89648964_status_2061872146532724950.json"
       ],
-      "last_updated": "2026-09-04T07:22:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602180642if_/https://pbs.twimg.com/profile_images/2050961398621147137/EU10jFVr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135d640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:49:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602180642if_/https://pbs.twimg.com/profile_images/2050961398621147137/EU10jFVr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f7380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2056798139974307840/MkAlA2Qa_normal.jpg": {
       "status": "done",
@@ -9982,9 +9982,9 @@
       "referenced_by": [
         "20260602230418_twitter_com_11andpr89648964_status_2061947041035776278.json"
       ],
-      "last_updated": "2026-09-04T07:22:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602230418if_/https://pbs.twimg.com/profile_images/2011464468484800512/gESKy6vH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135f3b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:49:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602230418if_/https://pbs.twimg.com/profile_images/2011464468484800512/gESKy6vH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f6a80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg": {
       "status": "done",
@@ -10040,18 +10040,18 @@
         "20260603075943_twitter_com_11andpr89648964_status_2062081783307616434.json",
         "20260603090958_twitter_com_11andpr89648964_status_2062099464333222186.json"
       ],
-      "last_updated": "2026-09-04T07:22:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603090958if_/https://pbs.twimg.com/profile_images/2061421315597467648/gjt3kODx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135d9a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:49:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603090958if_/https://pbs.twimg.com/profile_images/2061421315597467648/gjt3kODx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f7c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1918719409046147072/tF_Wzi2T_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260603080448_twitter_com_11andpr89648964_status_2062083062104760734.json"
       ],
-      "last_updated": "2026-09-04T07:22:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603080448if_/https://pbs.twimg.com/profile_images/1918719409046147072/tF_Wzi2T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135f9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:49:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603080448if_/https://pbs.twimg.com/profile_images/1918719409046147072/tF_Wzi2T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae030b5f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg": {
       "status": "done",
@@ -10360,9 +10360,9 @@
       "referenced_by": [
         "20260604165900_twitter_com_11andpr89648964_status_2062579888167731383.json"
       ],
-      "last_updated": "2026-09-04T07:22:38",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604165900if_/https://pbs.twimg.com/profile_images/2021476026417831936/8BR6H3l0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135d790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604165900if_/https://pbs.twimg.com/profile_images/2021476026417831936/8BR6H3l0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f7440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031794264976605190/YG02D00I_normal.jpg": {
       "status": "done",
@@ -10398,9 +10398,9 @@
         "20260612090746_twitter_com_11andpr89648964_status_2065360401651617890.json",
         "20260620014736_twitter_com_11andpr89648964_status_2068148732479295550.json"
       ],
-      "last_updated": "2026-09-04T07:22:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620014736if_/https://pbs.twimg.com/profile_images/2022258129740906496/B6DlkRDC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135d130>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620014736if_/https://pbs.twimg.com/profile_images/2022258129740906496/B6DlkRDC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae036a7e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2061838534189969408/s9TNdIdp_normal.jpg": {
       "status": "done",
@@ -10423,9 +10423,9 @@
         "20260606044919_twitter_com_11andpr89648964_status_2063121030298902876.json",
         "20260606085946_twitter_com_11andpr89648964_status_2063184060252643761.json"
       ],
-      "last_updated": "2026-09-04T07:22:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606085946if_/https://pbs.twimg.com/profile_images/2058157117056622593/hI1-DtFj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913da090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606085946if_/https://pbs.twimg.com/profile_images/2058157117056622593/hI1-DtFj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae036bb00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2059529995119480832/R-nIdXfd_normal.jpg": {
       "status": "done",
@@ -10450,9 +10450,9 @@
       "referenced_by": [
         "20260606064747_twitter_com_11andpr89648964_status_2063150843495629312.json"
       ],
-      "last_updated": "2026-09-04T07:22:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606064747if_/https://pbs.twimg.com/profile_images/2060868521232662528/AlWnDSf0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913daf90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606064747if_/https://pbs.twimg.com/profile_images/2060868521232662528/AlWnDSf0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0368800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg": {
       "status": "done",
@@ -10475,9 +10475,9 @@
         "20260606175331_twitter_com_11andpr89648964_status_2063318382863351864.json",
         "20260607053048_twitter_com_11andpr89648964_status_2063493856902177085.json"
       ],
-      "last_updated": "2026-09-04T07:22:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607053048if_/https://pbs.twimg.com/profile_images/2060670600402939904/TgvcWOMz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913d8ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607053048if_/https://pbs.twimg.com/profile_images/2060670600402939904/TgvcWOMz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae030a330>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg": {
       "status": "done",
@@ -10809,9 +10809,9 @@
         "20260611035357_twitter_com_11andpr89648964_status_2064919035259834695.json",
         "20260611064546_twitter_com_11andpr89648964_status_2064962275493261648.json"
       ],
-      "last_updated": "2026-09-04T07:22:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611064546if_/https://pbs.twimg.com/profile_images/2059496966707621888/qiGFkLLK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135f9b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611064546if_/https://pbs.twimg.com/profile_images/2059496966707621888/qiGFkLLK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0368b00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg": {
       "status": "done",
@@ -10924,9 +10924,9 @@
       "referenced_by": [
         "20260613070320_twitter_com_11andpr89648964_status_2065691471215489513.json"
       ],
-      "last_updated": "2026-09-04T07:22:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613070320if_/https://pbs.twimg.com/profile_images/2040603995165884416/U_wshE8S_normal.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913966c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613070320if_/https://pbs.twimg.com/profile_images/2040603995165884416/U_wshE8S_normal.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae030a420>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2063052108295970816/zDmsIiaK_normal.jpg": {
       "status": "done",
@@ -10976,9 +10976,9 @@
       "referenced_by": [
         "20260613070521_twitter_com_11andpr89648964_status_2065691978529161350.json"
       ],
-      "last_updated": "2026-09-04T07:22:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613070521if_/https://pbs.twimg.com/profile_images/1787451127362973696/M09u0lYa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913dade0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613070521if_/https://pbs.twimg.com/profile_images/1787451127362973696/M09u0lYa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0369a60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1917294575259115523/vGZfnsB4_normal.jpg": {
       "status": "done",
@@ -11113,9 +11113,9 @@
       "referenced_by": [
         "20260615024940_twitter_com_11andpr89648964_status_2066352412516892733.json"
       ],
-      "last_updated": "2026-09-04T07:22:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615024940if_/https://pbs.twimg.com/profile_images/2066030824982732800/pORCerQR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913dbb60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615024940if_/https://pbs.twimg.com/profile_images/2066030824982732800/pORCerQR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051ea20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg": {
       "status": "done",
@@ -11182,9 +11182,9 @@
       "referenced_by": [
         "20260615042848_twitter_com_11andpr89648964_status_2066377360082079757.json"
       ],
-      "last_updated": "2026-09-04T07:22:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615042848if_/https://pbs.twimg.com/profile_images/2065912432250511361/Lv-QrTc7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913d8530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615042848if_/https://pbs.twimg.com/profile_images/2065912432250511361/Lv-QrTc7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051c320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg": {
       "status": "done",
@@ -11261,9 +11261,9 @@
       "referenced_by": [
         "20260615110929_twitter_com_11andpr89648964_status_2066478193868177878.json"
       ],
-      "last_updated": "2026-09-04T07:22:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615110929if_/https://pbs.twimg.com/profile_images/2065074507224887296/Ipjwy9BA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913da9f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615110929if_/https://pbs.twimg.com/profile_images/2065074507224887296/Ipjwy9BA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051f4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg": {
       "status": "done",
@@ -11306,9 +11306,9 @@
       "referenced_by": [
         "20260615113700_twitter_com_11andpr89648964_status_2066485121155535212.json"
       ],
-      "last_updated": "2026-09-04T07:23:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615113700if_/https://pbs.twimg.com/profile_images/2065404385270865920/QeotzjDf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff391394bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615113700if_/https://pbs.twimg.com/profile_images/2065404385270865920/QeotzjDf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f7b90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1997683200886476802/ywV4jJri_normal.jpg": {
       "status": "done",
@@ -11352,9 +11352,9 @@
       "referenced_by": [
         "20260615155002_twitter_com_11andpr89648964_status_2066548795568160929.json"
       ],
-      "last_updated": "2026-09-04T07:23:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615155002if_/https://pbs.twimg.com/profile_images/2066193442460602368/1Uf4k10S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135c470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615155002if_/https://pbs.twimg.com/profile_images/2066193442460602368/1Uf4k10S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051eb70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2066345056387354624/Tu20i7fr_normal.jpg": {
       "status": "done",
@@ -11403,9 +11403,9 @@
       "referenced_by": [
         "20260616221317_twitter_com_11andpr89648964_status_2067007634176344312.json"
       ],
-      "last_updated": "2026-09-04T07:23:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616221317if_/https://pbs.twimg.com/profile_images/2064279049204273152/CEHlbdok_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913975c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616221317if_/https://pbs.twimg.com/profile_images/2064279049204273152/CEHlbdok_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f6660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2066609623571091456/IjV5LRla_normal.jpg": {
       "status": "done",
@@ -11419,9 +11419,9 @@
       "referenced_by": [
         "20260616221701_twitter_com_11andpr89648964_status_2067008572337385909.json"
       ],
-      "last_updated": "2026-09-04T07:23:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616221701if_/https://pbs.twimg.com/profile_images/2066225709878775808/bw1_DKzK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135ff20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616221701if_/https://pbs.twimg.com/profile_images/2066225709878775808/bw1_DKzK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae036a030>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2047505359754199040/vLsfJzc4_normal.jpg": {
       "status": "done",
@@ -11449,9 +11449,9 @@
       "referenced_by": [
         "20260617032749_twitter_com_11andpr89648964_status_2067086786531320087.json"
       ],
-      "last_updated": "2026-09-04T07:23:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617032749if_/https://pbs.twimg.com/profile_images/2066785811027447808/AoD3QB4O_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135c800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617032749if_/https://pbs.twimg.com/profile_images/2066785811027447808/AoD3QB4O_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051c4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2065399347324575745/aPonqmuF_normal.jpg": {
       "status": "done",
@@ -11678,9 +11678,9 @@
       "referenced_by": [
         "20260622105912_twitter_com_11andpr89648964_status_2069012323222859952.json"
       ],
-      "last_updated": "2026-09-04T07:23:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260622105912if_/https://pbs.twimg.com/profile_images/2057793109594161152/aAwwfGt3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135db80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260622105912if_/https://pbs.twimg.com/profile_images/2057793109594161152/aAwwfGt3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0308fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg": {
       "status": "done",
@@ -11906,9 +11906,9 @@
       "referenced_by": [
         "20260626010818_twitter_com_11andpr89648964_status_2070313167423758682.json"
       ],
-      "last_updated": "2026-09-04T07:23:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626010818if_/https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3912059a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626010818if_/https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae053c4d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2070183240644915206/S4CWGmD5_normal.jpg": {
       "status": "done",
@@ -11954,18 +11954,18 @@
       "referenced_by": [
         "20260626072302_twitter_com_11andpr89648964_status_2070407471563497948.json"
       ],
-      "last_updated": "2026-09-04T07:23:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626072302if_/https://pbs.twimg.com/profile_images/2064539358628052992/X3RQ0DMn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff391204c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626072302if_/https://pbs.twimg.com/profile_images/2064539358628052992/X3RQ0DMn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0368fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2070346986335985664/Od2VTe2J_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260626083448_twitter_com_11andpr89648964_status_2070425534153322666.json"
       ],
-      "last_updated": "2026-09-04T07:23:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626083448if_/https://pbs.twimg.com/profile_images/2070346986335985664/Od2VTe2J_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3924d7c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626083448if_/https://pbs.twimg.com/profile_images/2070346986335985664/Od2VTe2J_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051d550>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg": {
       "status": "done",
@@ -11987,9 +11987,9 @@
       "referenced_by": [
         "20260626102928_twitter_com_11andpr89648964_status_2070454391577190592.json"
       ],
-      "last_updated": "2026-09-04T07:23:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626102928if_/https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135e330>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626102928if_/https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae02f7470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg": {
       "status": "done",
@@ -12105,9 +12105,9 @@
       "referenced_by": [
         "20260703132329_twitter_com_11andpr89648964_status_2073034897409900781.json"
       ],
-      "last_updated": "2026-09-04T07:23:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703132329if_/https://pbs.twimg.com/profile_images/2072886066676416512/3FkfWnXw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff3913db4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703132329if_/https://pbs.twimg.com/profile_images/2072886066676416512/3FkfWnXw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae051dc70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2072603682190045184/bq4D2yOJ_normal.jpg": {
       "status": "done",
@@ -12278,9 +12278,9 @@
       "referenced_by": [
         "20260714084210_twitter_com_11andpr89648964_status_2076950369670996432.json"
       ],
-      "last_updated": "2026-09-04T07:23:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714084210if_/https://pbs.twimg.com/profile_images/2076934851450793984/RHY5sbo3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff391204bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714084210if_/https://pbs.twimg.com/profile_images/2076934851450793984/RHY5sbo3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae053e9c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1925603292085903360/tTQlXEXt_normal.jpg": {
       "status": "done",
@@ -12359,9 +12359,9 @@
       "referenced_by": [
         "20260717144153_twitter_com_11andpr89648964_status_2078128056670245336.json"
       ],
-      "last_updated": "2026-09-04T07:23:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717144153if_/https://pbs.twimg.com/profile_images/2075359239284117504/FUSiyyKD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135ef30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-09-25T07:50:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717144153if_/https://pbs.twimg.com/profile_images/2075359239284117504/FUSiyyKD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae053cec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2078611891312848896/M2oSbYP4_normal.jpg": {
       "status": "done",
@@ -12529,9 +12529,9 @@
       "referenced_by": [
         "20260827161654_twitter_com_11andpr89648964_status_2093009872757596572.json"
       ],
-      "last_updated": "2026-09-04T07:23:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260827161654if_/https://pbs.twimg.com/profile_images/2092989083379458048/wUhdQ0pP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135cc50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-09-25T07:50:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260827161654if_/https://pbs.twimg.com/profile_images/2092989083379458048/wUhdQ0pP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae0308c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/1805465679367421952/ruFr3hV__normal.jpg": {
       "status": "done",
@@ -12630,9 +12630,9 @@
       "referenced_by": [
         "20260829214706_twitter_com_11andpr89648964_status_2093817744794001670.json"
       ],
-      "last_updated": "2026-09-04T07:23:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260829214706if_/https://pbs.twimg.com/profile_images/2085529958198513664/AeE40U6L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff39135eba0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-09-25T07:50:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260829214706if_/https://pbs.twimg.com/profile_images/2085529958198513664/AeE40U6L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1ae030bbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2074027189637627904/xjfmXtHf_normal.jpg": {
       "status": "done",
@@ -12656,100 +12656,116 @@
       "last_updated": "2026-09-04T07:22:25"
     },
     "https://pbs.twimg.com/profile_images/2094634300985761792/QA3_0XTy_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260903072415_twitter_com_11andpr89648964_status_2095412541661102488.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/1924284276255694848/OjFn7dTg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260903074029_twitter_com_11andpr89648964_status_2095416625747091927.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260903074029_twitter_com_11andpr89648964_status_2095416625747091927.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260906161205_twitter_com_11andpr89648964_status_2096632537116504524.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260906173223_twitter_com_11andpr89648964_status_2096652747194179732.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260906182533_twitter_com_11andpr89648964_status_2096666125207793771.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260907051011_twitter_com_11andpr89648964_status_2096828355094175945.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2022722959950168064/RJshcdX__normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260907051017_twitter_com_11andpr89648964_status_2096828377470763385.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/1832400418087038979/-PB1aydX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260907060831_twitter_com_11andpr89648964_status_2096843034986172849.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260909162739_twitter_com_11andpr89648964_status_2097723621007663145.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2077798954100797440/UvOcbToi_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260913024018_twitter_com_11andpr89648964_status_2098964960990945508.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2085741784748212224/wkJmqmut_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914073357_twitter_com_11andpr89648964_status_2099401247598289350.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914133002_twitter_com_11andpr89648964_status_2099490860715200687.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260916133800_twitter_com_11andpr89648964_status_2100217640560234915.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2094372891735535616/QRnbzTb4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260916213608_twitter_com_11andpr89648964_status_2100337967206478295.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     },
     "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919183706_twitter_com_11andpr89648964_status_2101380075837161749.json"
-      ]
+      ],
+      "last_updated": "2026-09-25T07:49:48"
     }
   },
   "media": {
@@ -26603,7 +26619,7 @@
       "last_updated": "2026-09-25T07:42:15"
     },
     "20260903072415_twitter_com_11andpr89648964_status_2095412541661102488.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRH4cydaYAA1vAo.jpg"
@@ -26614,10 +26630,10 @@
           "https://pbs.twimg.com/profile_images/2094634300985761792/QA3_0XTy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260903074029_twitter_com_11andpr89648964_status_2095416625747091927.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRNjAusbIAIECpQ.jpg",
@@ -26630,7 +26646,7 @@
           "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260906061625_twitter_com_11andpr89648964_status_2096482635321331954.json": {
       "status": "done",
@@ -26667,7 +26683,7 @@
       "last_updated": "2026-09-25T07:42:15"
     },
     "20260906161205_twitter_com_11andpr89648964_status_2096632537116504524.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26676,7 +26692,7 @@
           "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260906173123_twitter_com_11andpr89648964_status_2096652493707170190.json": {
       "status": "done",
@@ -26691,7 +26707,7 @@
       "last_updated": "2026-09-25T07:42:15"
     },
     "20260906173223_twitter_com_11andpr89648964_status_2096652747194179732.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26700,10 +26716,10 @@
           "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260906182533_twitter_com_11andpr89648964_status_2096666125207793771.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26712,7 +26728,7 @@
           "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260906220938_twitter_com_11andpr89648964_status_2096722520422629593.json": {
       "status": "done",
@@ -26802,7 +26818,7 @@
       "last_updated": "2026-09-25T07:49:09"
     },
     "20260907051011_twitter_com_11andpr89648964_status_2096828355094175945.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26811,10 +26827,10 @@
           "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260907051017_twitter_com_11andpr89648964_status_2096828377470763385.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26823,7 +26839,7 @@
           "https://pbs.twimg.com/profile_images/2022722959950168064/RJshcdX__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260907051027_twitter_com_11andpr89648964_status_2096828420269437341.json": {
       "status": "done",
@@ -26873,7 +26889,7 @@
       "last_updated": "2026-09-25T07:42:16"
     },
     "20260907060831_twitter_com_11andpr89648964_status_2096843034986172849.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26882,7 +26898,7 @@
           "https://pbs.twimg.com/profile_images/1832400418087038979/-PB1aydX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260907060930_twitter_com_11andpr89648964_status_2096843283171570143.json": {
       "status": "done",
@@ -26908,7 +26924,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260909162739_twitter_com_11andpr89648964_status_2097723621007663145.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26917,7 +26933,7 @@
           "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260909174537_twitter_com_11andpr89648964_status_2097743242729263582.json": {
       "status": "done",
@@ -26955,7 +26971,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260913024018_twitter_com_11andpr89648964_status_2098964960990945508.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -26964,7 +26980,7 @@
           "https://pbs.twimg.com/profile_images/2077798954100797440/UvOcbToi_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260913144800_twitter_com_11andpr89648964_status_2099148095733067992.json": {
       "status": "done",
@@ -27028,7 +27044,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260914073357_twitter_com_11andpr89648964_status_2099401247598289350.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -27037,7 +27053,7 @@
           "https://pbs.twimg.com/profile_images/2085741784748212224/wkJmqmut_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260914073508_twitter_com_11andpr89648964_status_2099401549089046845.json": {
       "status": "failed",
@@ -27079,7 +27095,7 @@
       "last_updated": "2026-09-25T07:49:09"
     },
     "20260914133002_twitter_com_11andpr89648964_status_2099490860715200687.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -27088,7 +27104,7 @@
           "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260914191725_twitter_com_11andpr89648964_status_2099578281301516723.json": {
       "status": "done",
@@ -27115,7 +27131,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260916133800_twitter_com_11andpr89648964_status_2100217640560234915.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSNdxd7aYAADkck.jpg"
@@ -27126,7 +27142,7 @@
           "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260916133858_twitter_com_11andpr89648964_status_2100217886182982077.json": {
       "status": "done",
@@ -27156,7 +27172,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260916213608_twitter_com_11andpr89648964_status_2100337967206478295.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSWZU8LbMAExk7-.jpg"
@@ -27168,7 +27184,7 @@
           "https://pbs.twimg.com/profile_images/2094372891735535616/QRnbzTb4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     },
     "20260916214154_twitter_com_11andpr89648964_status_2100339418376950257.json": {
       "status": "done",
@@ -27294,7 +27310,7 @@
       "last_updated": "2026-09-25T07:42:17"
     },
     "20260919183706_twitter_com_11andpr89648964_status_2101380075837161749.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSmUu-oaEAArGa7.jpg",
@@ -27306,7 +27322,7 @@
           "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-25T07:49:08"
+      "last_updated": "2026-09-25T07:49:48"
     }
   }
 }
