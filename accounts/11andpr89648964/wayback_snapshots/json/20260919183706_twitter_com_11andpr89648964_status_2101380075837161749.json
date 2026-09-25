@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2101374246392062462",
+    "created_at": "2026-09-19T18:37:06.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101380075837161749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749512000340942848",
+          "start": 0,
+          "username": "jiu95061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101380075837161749",
+    "in_reply_to_user_id": "1749512000340942848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101374246392062462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu95061 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101374235952418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmUu-oaEAArGa7.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2101374244164898816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmUvdOakAACAMv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2101374246392062462",
+        "created_at": "2026-09-19T18:37:06.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101380075837161749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101380075837161749",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101374246392062462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101374235952418816",
+            "3_2101374244164898816"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2101374246392062462",
+        "created_at": "2026-09-19T18:13:56.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101374246392062462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYmkvkij2P",
+              "end": 25,
+              "expanded_url": "https://x.com/jiu95061/status/2101374246392062462/photo/1",
+              "media_key": "3_2101374235952418816",
+              "start": 2,
+              "url": "https://t.co/tYmkvkij2P"
+            },
+            {
+              "display_url": "pic.x.com/tYmkvkij2P",
+              "end": 25,
+              "expanded_url": "https://x.com/jiu95061/status/2101374246392062462/photo/1",
+              "media_key": "3_2101374244164898816",
+              "start": 2,
+              "url": "https://t.co/tYmkvkij2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101374246392062462",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101374235952418816"
+          },
+          {
+            "media_key": "3_2101374244164898816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪 https://t.co/tYmkvkij2P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2101380075837161749",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 983,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2101376442177311207",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749512000340942848/1776887226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 225,
+          "like_count": 1219,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "jiu95061",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2096607278824861996",
+    "created_at": "2026-09-07T05:10:17.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096828377470763385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022721754473598979",
+          "start": 0,
+          "username": "Pii69sirz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096828377470763385",
+    "in_reply_to_user_id": "2022721754473598979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096695264480551223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pii69sirz 抓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2096607278824861996",
+        "created_at": "2026-09-07T05:10:17.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096828377470763385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022721754473598979",
+              "start": 0,
+              "username": "Pii69sirz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096828377470763385",
+        "in_reply_to_user_id": "2022721754473598979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096695264480551223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pii69sirz 抓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022721754473598979",
+        "conversation_id": "2096607278824861996",
+        "created_at": "2026-09-06T20:21:20.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096695264480551223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096695264480551223",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096607278824861996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 抓起來"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2096828377470763385",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 973,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2299
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T17:20:35.000Z",
+        "description": "私訊我請先傳：被雷劈\\喜歡看女生裸體的變態\\推特太多同性戀，男生裝女生太恐怖了，先不要好了會怕（沒騙說女的我覺得還好）。我是異性戀，我喜歡女生不喜歡肛門\\🈲肛\\結果之前是被駭客釣魚郵件盜走才停權\\在網路有的話想到就講並無惡意\\音樂課、狀況愛、裝備商是推特吸毒、賣毒暗號\\🈲毒品\\沒有吸毒犯罪、嚼檳榔、抽菸喝酒\\年輕人",
+        "id": "2022721754473598979",
+        "is_identity_verified": false,
+        "location": "台南南部光電板污染東京迪士尼。連結下載不要亂按飛機群才能按",
+        "most_recent_tweet_id": "2096695264480551223",
+        "name": "閃電龍6",
+        "pinned_tweet_id": "2052019082019713259",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022721754473598979/1771146796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022722959950168064/RJshcdX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 797,
+          "like_count": 7319,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "Pii69sirz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
