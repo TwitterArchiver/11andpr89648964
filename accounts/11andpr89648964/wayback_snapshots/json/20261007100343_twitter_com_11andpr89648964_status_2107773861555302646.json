@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107275241420673024"
+      ],
+      "media_source_tweet_id": [
+        "2107275248676843868"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2107773861555302646",
+    "created_at": "2026-10-07T10:03:43.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107773861555302646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2099827276179484674",
+          "start": 3,
+          "username": "zeroday_zz"
+        },
+        {
+          "end": 45,
+          "id": "2010357366466990080",
+          "start": 31,
+          "username": "shennainai666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGTC6QJiKa",
+          "end": 80,
+          "expanded_url": "https://x.com/zeroday_zz/status/2107275248676843868/photo/1",
+          "media_key": "3_2107275241420673024",
+          "start": 57,
+          "url": "https://t.co/nGTC6QJiKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107773861555302646",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107275241420673024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107275248676843868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeroday_zz: 我重生了，新的一世我将……我是@shennainai666转生号熟悉的推油转一下 https://t.co/nGTC6QJiKa"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [shennainai666].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "shennainai666",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "shennainai666"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3318,
+        "media_key": "3_2107275241420673024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6LqtDa0AAJfk5.jpg",
+        "width": 2166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107275241420673024"
+          ],
+          "media_source_tweet_id": [
+            "2107275248676843868"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2107773861555302646",
+        "created_at": "2026-10-07T10:03:43.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107773861555302646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2099827276179484674",
+              "start": 3,
+              "username": "zeroday_zz"
+            },
+            {
+              "end": 45,
+              "id": "2010357366466990080",
+              "start": 31,
+              "username": "shennainai666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGTC6QJiKa",
+              "end": 80,
+              "expanded_url": "https://x.com/zeroday_zz/status/2107275248676843868/photo/1",
+              "media_key": "3_2107275241420673024",
+              "start": 57,
+              "url": "https://t.co/nGTC6QJiKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107773861555302646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107275241420673024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107275248676843868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeroday_zz: 我重生了，新的一世我将……我是@shennainai666转生号熟悉的推油转一下 https://t.co/nGTC6QJiKa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107275241420673024"
+          ]
+        },
+        "author_id": "2099827276179484674",
+        "conversation_id": "2107275248676843868",
+        "created_at": "2026-10-06T01:02:25.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107275248676843868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2010357366466990080",
+              "start": 15,
+              "username": "shennainai666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGTC6QJiKa",
+              "end": 64,
+              "expanded_url": "https://x.com/zeroday_zz/status/2107275248676843868/photo/1",
+              "media_key": "3_2107275241420673024",
+              "start": 41,
+              "url": "https://t.co/nGTC6QJiKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107275248676843868",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107275241420673024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，新的一世我将……我是@shennainai666转生号熟悉的推油转一下 https://t.co/nGTC6QJiKa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2107773861555302646",
+        "name": "11",
+        "pinned_tweet_id": "2102396462864937268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 989,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2400
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-15T11:52:31.000Z",
+        "description": "@shennainai666的转世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "shennainai666"
+              }
+            ]
+          }
+        },
+        "id": "2099827276179484674",
+        "is_identity_verified": false,
+        "location": "嗶哩嗶哩",
+        "most_recent_tweet_id": "2107755453866492393",
+        "name": "河南直营店（2.0）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101422289766211584/OD-WYWyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 146,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "zeroday_zz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

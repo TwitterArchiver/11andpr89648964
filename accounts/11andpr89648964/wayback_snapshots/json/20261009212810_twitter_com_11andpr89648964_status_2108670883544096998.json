@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2108670883544096998",
+    "created_at": "2026-10-09T21:28:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T22:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108670883544096998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1257977880841080832",
+          "start": 3,
+          "username": "NEKONO14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108670883544096998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108654935210610761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEKONO14: 宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可以救回…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2344,
+        "media_key": "3_2108654898527277056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUNydUSbEAAtp-B.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2344,
+        "media_key": "3_2108654908375482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUNyd4-awAALBw1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2344,
+        "media_key": "3_2108654918596968448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUNyefDaQAASNF8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 629,
+        "media_key": "3_2108654928562700288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUNyfELbQAAPVwd.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2108670883544096998",
+        "created_at": "2026-10-09T21:28:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T22:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108670883544096998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1257977880841080832",
+              "start": 3,
+              "username": "NEKONO14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108670883544096998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108654935210610761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEKONO14: 宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可以救回…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108654898527277056",
+            "3_2108654908375482368",
+            "3_2108654918596968448",
+            "3_2108654928562700288"
+          ]
+        },
+        "author_id": "1257977880841080832",
+        "conversation_id": "2108654935210610761",
+        "created_at": "2026-10-09T20:24:48.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T21:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108654935210610761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ws1CjEm5J9",
+              "end": 165,
+              "expanded_url": "https://x.com/NEKONO14/status/2108654935210610761/photo/1",
+              "media_key": "3_2108654898527277056",
+              "start": 142,
+              "url": "https://t.co/ws1CjEm5J9"
+            },
+            {
+              "display_url": "pic.x.com/ws1CjEm5J9",
+              "end": 165,
+              "expanded_url": "https://x.com/NEKONO14/status/2108654935210610761/photo/1",
+              "media_key": "3_2108654908375482368",
+              "start": 142,
+              "url": "https://t.co/ws1CjEm5J9"
+            },
+            {
+              "display_url": "pic.x.com/ws1CjEm5J9",
+              "end": 165,
+              "expanded_url": "https://x.com/NEKONO14/status/2108654935210610761/photo/1",
+              "media_key": "3_2108654918596968448",
+              "start": 142,
+              "url": "https://t.co/ws1CjEm5J9"
+            },
+            {
+              "display_url": "pic.x.com/ws1CjEm5J9",
+              "end": 165,
+              "expanded_url": "https://x.com/NEKONO14/status/2108654935210610761/photo/1",
+              "media_key": "3_2108654928562700288",
+              "start": 142,
+              "url": "https://t.co/ws1CjEm5J9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108654935210610761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108654898527277056"
+          },
+          {
+            "media_key": "3_2108654908375482368"
+          },
+          {
+            "media_key": "3_2108654918596968448"
+          },
+          {
+            "media_key": "3_2108654928562700288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可以救回来\n请转发求求了，编辑于3月4日 https://t.co/ws1CjEm5J9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2108670883544096998",
+        "name": "11",
+        "pinned_tweet_id": "2102396462864937268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 1015,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2416
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "私は妃宮千早／O割クーポン／再フォーカス・再抑圧／ADHD／C-PTSD／薬理学と心理学が好き／同じような人には無限に親切／性別はお姉さん大人／お姉さんは永遠にあなたを愛します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2108656503964270902",
+        "name": "御门千早",
+        "pinned_tweet_id": "2108654935210610761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790600695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108657426862084096/pTXXddh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 142,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
